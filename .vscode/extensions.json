@@ -1,5 +1,8 @@
 {
   "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
     "googlecloud.cloudcode", 
     "davidanson.vscode-markdownlint",
     "pkief.material-icon-theme"

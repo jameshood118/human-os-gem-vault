@@ -1,4 +1,12 @@
-{
+{  
+    "files.eol": "\n",
+  "editor.lightbulb.enabled": "on",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
   "geminicodeassist.inlineSuggestions.enabled": true,
   "geminicodeassist.focusOnSelectedText": true,
   "geminicodeassist.useProjectContext": true,
