@@ -1,0 +1,34 @@
+{
+  "name": "human-os-gem-vault",
+  "version": "1.0.0",
+  "description": "The Logic & Lore Machine. Licensed under GPL-3.0 to ensure permanent open verification.",
+  "license": "GPL-3.0",
+  "scripts": {
+    "test": "echo \"Running System Diagnostics...\" && npm run system:audit",
+    "lint": "markdownlint '**/*.md' --ignore node_modules",
+    "format": "prettier --write '**/*.md'",
+    "system:audit": "npm run lint && echo '✅ System Integrity Verified: No anomalies detected.'",
+    "update:gems": "git pull origin main && echo '🔄 Logic & Lore Library Synced.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameshood118/human-os-gem-vault.git"
+  },
+  "keywords": [
+    "human-os",
+    "ai",
+    "prompts",
+    "gemini",
+    "logic-lore",
+    "verified-generalist"
+  ],
+  "author": "James Hood <The Verified Generalist>",
+  "devDependencies": {
+    "husky": "^9.0.11",
+    "markdownlint-cli": "^0.39.0",
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "@jameshood118/verified-generalist-cookbook": "^1.0.4"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "googlecloud.cloudcode", 
+    "davidanson.vscode-markdownlint",
+    "pkief.material-icon-theme"
+  ]
+}

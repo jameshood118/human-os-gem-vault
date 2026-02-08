@@ -1,0 +1,9 @@
+{
+  "geminicodeassist.inlineSuggestions.enabled": true,
+  "geminicodeassist.focusOnSelectedText": true,
+  "geminicodeassist.useProjectContext": true,
+  "files.associations": {
+    "GEMINI.md": "markdown",
+    "AGENT.md": "markdown"
+  }
+}

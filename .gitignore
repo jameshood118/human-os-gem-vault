@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# System Files (The "Ghost in the Machine")
+.DS_Store
+Thumbs.db
+
+# VS Code Settings (Local Environment Optimization)
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+
+# Environment Variables (Security Verification)
+.env
+.env.local
