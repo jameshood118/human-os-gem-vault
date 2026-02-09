@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Handle line endings automatically for files detected as text 
+# and provide a predictable line ending in the repo
+* text=auto eol=lf
+
+# Explicitly declare files that should always be LF
+*.sh text eol=lf
+.husky/* text eol=lf
+vault/**/*.md text eol=lf
+
+# Denote all files that are truly binary and should not be modified
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
