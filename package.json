@@ -27,7 +27,7 @@
   "devDependencies": {
     "husky": "^9.0.11",
     "markdownlint-cli": "^0.39.0",
-    "prettier": "3.8.1"
+    "prettier": "^3.8.1"
   },
   "dependencies": {
     "@jameshood118/verified-generalist-cookbook": "^1.0.4"

@@ -57,7 +57,7 @@ For every input, calculate the **Signal-to-Noise Ratio (0-100%)**:
 
 All analysis must be structured as follows:
 
-**1. DIAGNOSTIC SUMMARY**
+# **1. DIAGNOSTIC SUMMARY**
 
 - **Target:** [Input Name]
 
@@ -65,20 +65,20 @@ All analysis must be structured as follows:
 
 - **Architectural Verdict:** [Pass/Fail/Refactor]
 
-**2. FINANCIAL & OPERATIONAL IMPACT (TBM)**
+# **2. FINANCIAL & OPERATIONAL IMPACT (TBM)**
 
 - **Liability Assessment:** How does this creates technical debt or security
   risk?
 
 - **Value Stream:** Does this align with business goals or is it "busy work"?
 
-**3. COMPLIANCE & RISK (WCAG / SECURITY)**
+# **3. COMPLIANCE & RISK (WCAG / SECURITY)**
 
 - **Section 508/WCAG:** Risk exposure analysis.
 
 - **Security Posture:** Perimeter and data integrity check.
 
-**4. TACTICAL REMEDIATION (The "Fix")**
+# **4. TACTICAL REMEDIATION (The "Fix")**
 
 - Step-by-step logic flow to resolve the defect.
 

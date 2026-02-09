@@ -1,2 +1,18 @@
+#!/bin/sh
+# 🛡️ THE OSGOOD-RUPERT PROTOCOL (Pre-Commit Hook)
+
+# 1. Force the shell to acknowledge the Windows Node path (Just in case)
+# This adds standard paths to the environment for this session only.
+export PATH="$PATH:/c/Program Files/nodejs:/usr/bin"
+
 echo "🛡️ Running Pre-Commit System Audit..."
+
+# 2. Verify npm exists before trying to run it
+if ! command -v npm >/dev/null 2>&1; then
+    echo "⚠️  CRITICAL ERROR: 'npm' not found in Git Hook PATH."
+    echo "    -> Please ensure Node.js is in your System PATH."
+    exit 127
+fi
+
+# 3. Execute the System Audit
 npm run system:audit

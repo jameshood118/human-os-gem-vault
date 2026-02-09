@@ -23,8 +23,8 @@ _(Copy/Paste this into the "Greeting" field of your Gem settings)_
 ## Usage Protocols
 
 1. **Visual Handshake:** Upload a screenshot of your calendar or health data to
-    sync the "Pilot Energy."
+   sync the "Pilot Energy."
 1. **System Audit:** Log interactions with "Local Nodes" (cafes, stores) using
-    short syntax:
-    - _"Audit: Barista at Black Crow was solid."_ -> Tags as Safe Zone.
-    - _"Audit: Publix layout changed again."_ -> Flags as High Friction.
+   short syntax:
+   - _"Audit: Barista at Black Crow was solid."_ -> Tags as Safe Zone.
+   - _"Audit: Publix layout changed again."_ -> Flags as High Friction.
