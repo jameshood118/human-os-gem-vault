@@ -15,3 +15,6 @@ Thumbs.db
 # Environment Variables (Security Verification)
 .env
 .env.local
+
+# Windows System Junk
+*:Zone.Identifier

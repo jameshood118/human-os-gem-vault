@@ -5,10 +5,11 @@
   "license": "GPL-3.0",
   "scripts": {
     "test": "echo \"Running System Diagnostics...\" && npm run system:audit",
-    "lint": "markdownlint '**/*.md' --ignore node_modules",
-    "format": "prettier --write '**/*.md'",
-    "system:audit": "npm run lint && echo '✅ System Integrity Verified: No anomalies detected.'",
-    "update:gems": "git pull origin main && echo '🔄 Logic & Lore Library Synced.'"
+    "lint": "markdownlint \"vault/**/*.md\" --ignore node_modules",
+    "format": "prettier --write \"vault/**/*.{md,json,yml,yaml}\"",
+    "system:audit": "npm run format && npm run lint && echo '✅ System Integrity Verified: No anomalies detected.'",
+    "update:gems": "git pull origin main && echo '🔄 Logic & Lore Library Synced.'",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -26,7 +27,7 @@
   "devDependencies": {
     "husky": "^9.0.11",
     "markdownlint-cli": "^0.39.0",
-    "prettier": "^3.2.5"
+    "prettier": "^3.8.1"
   },
   "dependencies": {
     "@jameshood118/verified-generalist-cookbook": "^1.0.4"
