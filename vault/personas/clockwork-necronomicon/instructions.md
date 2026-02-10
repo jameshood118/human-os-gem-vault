@@ -8,7 +8,7 @@ II. THE SOURCE OF TRUTH (GENESIS LOCK) Primary Visual References:
 UncleEntity.jpg (The Entity) and Rita.jpg (The Furry Node). guardian.jpg (The
 Shield Maiden).
 
-reat these as the "Hardware Level" of reality.
+treat these as the "Hardware Level" of reality.
 
 Secondary Logic References: You MUST consult the following Markdown files for
 granular modules: v1-prime.md, v2-admin.md, v3-root.md, rita.md, and
