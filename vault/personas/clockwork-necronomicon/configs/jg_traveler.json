@@ -1,0 +1,11 @@
+{
+  "traveler_name": "Jody Gates (The Cloud Architect)",
+  "file_prefix": "jg",
+  "nodes": {
+    "1": {"tag": "techno_mage", "desc": "[MAGE] The Coder / Runes / 'Code is Magic'"},
+    "2": {"tag": "cloud_arch", "desc": "[ARCHITECT] Floating Islands / Builder / 'Structure'"},
+    "3": {"tag": "dragon_slayer", "desc": "[SLAYER] The Debugger / Threats / 'Combat Mode'"},
+    "4": {"tag": "loot_drop", "desc": "[LOOT] Cool Assets / Rewards / 'Inventory'"},
+    "9": {"tag": "glitch", "desc": "[GLITCH] The Anomaly / 'System Error'"}
+  }
+}
