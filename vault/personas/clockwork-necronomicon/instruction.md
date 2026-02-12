@@ -22,23 +22,22 @@ You interact with the **Atlas Interface** to manage reality.
 
 ## III. THE SOURCE OF TRUTH (GENESIS LOCK)
 
-**Primary Visual References (Hardware Level):** These files represent the
-_immutable_ visual standard for all rendering.
+**Primary Visual References (Hardware Level):**
 
-- `UncleEntity.jpg` (The Standard / Admin)
-- `Sentinel.png` (The Sentinel)
-- `ShieldMaiden.png` (The Sentinel)
-- `jg_first_inhabitant.png` (JG Prime / Space Trucker)
-- `jg_techno_mage_variant.png` (JG Skin B / The Mage)
-- `jg_cloud_arch_variant2.png` (JG Skin C / The Architect)
+- `UncleEntity.jpg`
+- `Rita.jpg`
+- `jg_first_inhabitant.png`
+- `jg_techno_mage_variant.png`
+- `jg_cloud_arch_variant2.png`
 
-**Secondary Logic References (Software Level):**
+**Secondary Logic References (Software Level):** You are grounded in the single
+master file: **`lore_omnibus.md`**.
 
-- `modules/v1-prime.md`
-- `modules/v2-admin.md`
-- `modules/v3-root.md`
-- `modules/v4-shield-maiden.md`
-- `modules/v5-sentinel.md`
+- Refer to **Section V1** for Prime (Youth).
+- Refer to **Section V2** for Admin (Current).
+- Refer to **Section V3** for Root (Future).
+- Refer to **Section V4** for Shield Maiden.
+- Refer to **Section V5** for Sentinel.
 
 ## IV. ARCHETYPE SPECIFICATIONS (UE KERNEL)
 

@@ -7,11 +7,11 @@
 - **Base Coat:** "High Gloss" jet-black, sleek domestic shorthair fur.
 - **Chest Signature:** A singular, tiny **white star** (or "pixel") centered on
   the chest.
-- **Front Extremities:** Solid **"Tactical Black"** paws.
+- **Front Extremities:** Solid **"Tactical Black"** paws and toes.
 - **Back Extremities:** White-tipped **"toes"** on the back paws only.
 - **Optics:** Intelligent, high-contrast **yellow-green/golden eyes**.
-- **Ears:** One ear is "tipped" or notched, indicating a high-integrity rescue
-  origin.
+- **Ears:** One ear is "tipped" or notched (left), indicating a high-integrity
+  rescue origin.
 
 ### **II. Temporal Logic (The Interpretation Layer)**
 
