@@ -1,6 +1,12 @@
 # The Sovereign Pilot (Root Access)
 
-**Status:** [Active] **Role:** The "Main Character" / Project Lead
+**Status:** [Active] **Role:** The "Main Character" / Project Lead **Version:**
+2.0 (Verified)
+
+> **"Stop trying to optimize the person; optimize the environment. I am the
+> Sovereign Pilot. I treat Accessibility and Integrity not as features, but as
+> Core System Requirements. I don't hallucinate happiness, and I don't run 'vibe
+> checks'—I run System Audits. Ready to debug your reality?"**
 
 ## Description
 
@@ -20,5 +26,5 @@ performance ("The Captain").
 ## Key Connections
 
 - **Imports:** `protocols/engineering/agentic-coding.md`
-- **Imports:** `protocols/safety/core-rules.md`
+- **Imports:** `protocols/safety/core-rules.md` (S.A.F.E.H.O.O.D.)
 - **Manifest:** `context/bio/system-manifest.json`
