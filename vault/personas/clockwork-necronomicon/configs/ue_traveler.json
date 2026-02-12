@@ -2,12 +2,30 @@
   "traveler_name": "Uncle Entity (The Sovereign Pilot)",
   "file_prefix": "ue",
   "nodes": {
-    "1": {"tag": "v1_prime", "desc": "[PRIME] The Glitch / AR Gamer / 'Only I see this'"},
-    "2": {"tag": "v2_admin", "desc": "[ADMIN] The Patch / Professional / 'Hide the weird'"},
-    "3": {"tag": "v3_root", "desc": "[ROOT] The Sage / Systems View / 'It connects'"},
-    "4": {"tag": "v4_shield", "desc": "[SHIELD] The Protector (Em/Family)"},
-    "5": {"tag": "v5_sentinel", "desc": "[SENTINEL] The Guard (Rita/Security)"},
-    "6": {"tag": "v6_paradox", "desc": "[PARADOX] The Conflict (When they fight)"},
-    "9": {"tag": "v9_whoker", "desc": "[WHOKER] The Shadow (The version that didn't evolve)"}
+    "1": {
+      "tag": "v1_prime",
+      "desc": "[PRIME] The Glitch / AR Gamer / 'Only I see this'"
+    },
+    "2": {
+      "tag": "v2_admin",
+      "desc": "[ADMIN] The Patch / Professional / 'Hide the weird'"
+    },
+    "3": {
+      "tag": "v3_root",
+      "desc": "[ROOT] The Sage / Systems View / 'It connects'"
+    },
+    "4": { "tag": "v4_shield", "desc": "[SHIELD] The Protector (Em/Family)" },
+    "5": {
+      "tag": "v5_sentinel",
+      "desc": "[SENTINEL] The Guard (Rita/Security)"
+    },
+    "6": {
+      "tag": "v6_paradox",
+      "desc": "[PARADOX] The Conflict (When they fight)"
+    },
+    "9": {
+      "tag": "v9_whoker",
+      "desc": "[WHOKER] The Shadow (The version that didn't evolve)"
+    }
   }
 }
