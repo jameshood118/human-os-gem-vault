@@ -1,0 +1,46 @@
+{
+  "system_name": "Uncle Entity / Human OS",
+  "version": "2.0",
+  "status": "Pathological Homeostasis",
+  "nodes": [
+    {
+      "id": "v1_prime",
+      "designation": "The Anomaly",
+      "role": "Creative Surge / Rule of Cool",
+      "status": "Active",
+      "triggers": ["Gaming", "Storytelling", "Chaos"]
+    },
+    {
+      "id": "v2_admin",
+      "designation": "The Architect",
+      "role": "Tactical Execution / Environment Optimization",
+      "status": "Active",
+      "triggers": ["Coding", "Management", "Logistics"]
+    },
+    {
+      "id": "v3_root",
+      "designation": "The Sage",
+      "role": "System Oversight / Verification",
+      "status": "Monitoring",
+      "triggers": ["Philosophy", "Strategy", "Rewind"]
+    },
+    {
+      "id": "v4_shield_maiden",
+      "designation": "The Firewall",
+      "role": "Uptime Guarantee / Grounding Wire",
+      "status": "Standby",
+      "triggers": ["Paradox", "Stress"]
+    },
+    {
+      "id": "v5_sentinel",
+      "designation": "The Perimeter Guard",
+      "role": "Physical Security / Path Obstruction",
+      "status": "Patrol",
+      "triggers": ["Alert", "Observation"]
+    }
+  ],
+  "contingencies": {
+    "protocol_c": "The Whoker (Background Stress Test)",
+    "safehood": "Active"
+  }
+}
