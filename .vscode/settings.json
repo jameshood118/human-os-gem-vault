@@ -1,17 +1,59 @@
-{  
-    "files.eol": "\n",
-  "editor.lightbulb.enabled": "on",
+{
+  // --- SECTION 1: CODE FORMATTING (PRETTIER ENFORCEMENT) ---
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[javascriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+
+  // --- SECTION 2: ESLINT & AUTO-FIX PROTOCOLS ---
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
     "source.organizeImports": "explicit"
   },
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
-  "geminicodeassist.inlineSuggestions.enabled": true,
-  "geminicodeassist.focusOnSelectedText": true,
-  "geminicodeassist.useProjectContext": true,
-  "files.associations": {
-    "GEMINI.md": "markdown",
-    "AGENT.md": "markdown"
-  }
+
+  // --- SECTION 3: TYPESCRIPT / REACT 19 DX ---
+  "javascript.format.enable": false,
+  "typescript.format.enable": false,
+  "typescript.suggest.autoImports": true,
+  "javascript.suggest.autoImports": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+
+  // --- SECTION 4: EDGE FUNCTIONS (DENO ISOLATION) ---
+  "deno.enable": true,
+  "deno.unstable": true,
+  "deno.enablePaths": ["supabase/functions"],
+  "deno.importMap": "supabase/functions/import_map.json",
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true
+  }, // <--- FIXED: Added missing comma
+
+  // --- SECTION 5: AI CONTEXT & ACCESSIBILITY ---
+  "github.copilot.editor.enableAutoCompletions": true,
+  "axe.showA11yIssuesInEditor": true, // <--- FIXED: Added missing comma
+
+  // --- SECTION 6: SYSTEM INTEGRITY (CLEANLINESS) ---
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "editor.lightbulb.enabled": "on",
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/.eslintcache": true
+  },
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wrappingIndent": "same",
+  "editor.wordWrapColumn": 80
 }

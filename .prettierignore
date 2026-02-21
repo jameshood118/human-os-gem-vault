@@ -30,3 +30,7 @@ src/types/supabase.ts
 # --- Documentation ---
 # We let Prettier handle READMEs, but ignore local changelogs if auto-gen
 # CHANGELOG.md
+
+# --- ☢️ FORT DE SOTO: THE QUARANTINE ZONE ☢️ ---
+# The Feral Agent's raw workbench. No aesthetic formatting allowed.
+src/tests/quarantine/**/*.ts

@@ -4,12 +4,40 @@
   "description": "The Logic & Lore Machine. Licensed under GPL-3.0 to ensure permanent open verification.",
   "license": "GPL-3.0",
   "scripts": {
-    "test": "echo \"Running System Diagnostics...\" && npm run system:audit",
-    "lint": "markdownlint \"vault/**/*.md\" --ignore node_modules",
-    "format": "prettier --write \"vault/**/*.{md,json,yml,yaml}\"",
     "system:audit": "npm run format && npm run lint && echo '✅ System Integrity Verified: No anomalies detected.'",
     "update:gems": "git pull origin main && echo '🔄 Logic & Lore Library Synced.'",
-    "prepare": "husky"
+    "--- BOOT SEQUENCE (Environment Optimization) ---": "",
+    "dev": "vite",
+    "dev:api": "concurrently -n \"VITE,API\" -c \"blue,magenta\" \"vite\" \"tsx watch backend/server.ts\"",
+    "dev:full": "concurrently -n \"VITE,SUPA,API\" -c \"blue,green,magenta\" \"vite\" \"npm run supabase:start\" \"tsx watch backend/server.ts\"",
+    "--- SYSTEM AUDITS (Verification Layer) ---": "",
+    "agent:qa": "tsx qa-agent/index.ts",
+    "precheck": "bash ./scripts/precheck.sh",
+    "check": "npm run typecheck && npm run lint && npm run lint:md && npm run format:check && npm run test:run",
+    "check:full": "npm run check && npm run test:verified",
+    "lint": "eslint . --cache",
+    "lint:fix": "eslint . --cache --fix",
+    "lint:md": "markdownlint . --ignore node_modules",
+    "lint:md:fix": "markdownlint . --fix --ignore node_modules",
+    "typecheck": "tsc --noEmit --pretty false",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "--- TESTING (Behavioral Integrity) ---": "",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:quarantine": "playwright test src/tests/quarantine",
+    "test:verified": "playwright test src/tests/e2e",
+    "test:e2e": "playwright test",
+    "test:e2e:ui": "playwright test --ui",
+    "--- DATABASE (Dormant Physical Layer) ---": "",
+    "supabase:start": "npx supabase@latest start",
+    "supabase:stop": "npx supabase@latest stop",
+    "supabase:reset": "npx supabase db reset",
+    "supabase:gen-types": "npx supabase@latest gen types typescript --local | node scripts/gen-supabase-types.mjs",
+    "--- BUILD & DEPLOY (Legacy Code Prevention) ---": "",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "prepare": "node -e \"process.exit(process.env.CI ? 0 : 1)\" || husky"
   },
   "repository": {
     "type": "git",
@@ -24,12 +52,68 @@
     "verified-generalist"
   ],
   "author": "James Hood <The Verified Generalist>",
-  "devDependencies": {
-    "husky": "^9.0.11",
-    "markdownlint-cli": "^0.39.0",
-    "prettier": "^3.8.1"
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "prettier --write",
+      "eslint --fix"
+    ],
+    "*.md": [
+      "prettier --write",
+      "markdownlint --fix"
+    ],
+    "*.{json,css,yml,yaml}": [
+      "prettier --write"
+    ]
   },
   "dependencies": {
-    "@jameshood118/verified-generalist-cookbook": "^1.0.4"
+    "@emotion/react": "11.14.0",
+    "@emotion/styled": "11.14.1",
+    "@fortawesome/fontawesome-svg-core": "7.1.0",
+    "@fortawesome/free-solid-svg-icons": "7.1.0",
+    "@fortawesome/react-fontawesome": "3.1.0",
+    "@google/generative-ai": "0.24.1",
+    "@mui/icons-material": "7.3.5",
+    "@mui/material": "7.3.5",
+    "@supabase/supabase-js": "2.89.0",
+    "cors": "2.8.5",
+    "express": "5.2.1",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-helmet-async": "2.0.5",
+    "react-router-dom": "7.12.0",
+    "secure-json-parse": "4.1.0",
+    "uuid": "13.0.0"
+  },
+  "devDependencies": {
+    "eslint": "9.17.0",
+    "typescript-eslint": "8.18.2",
+    "eslint-plugin-react": "7.37.2",
+    "eslint-plugin-react-hooks": "5.1.0",
+    "prettier": "3.4.2",
+    "@axe-core/playwright": "4.11.0",
+    "@eslint/js": "9.17.0",
+    "@playwright/test": "1.57.0",
+    "@types/node": "22.10.5",
+    "@types/react": "19.0.2",
+    "@types/react-dom": "19.0.2",
+    "@typescript-eslint/eslint-plugin": "8.56.0",
+    "@typescript-eslint/parser": "8.18.2",
+    "@vitejs/plugin-react": "4.3.4",
+    "babel-plugin-react-compiler": "1.0.0",
+    "concurrently": "9.2.1",
+    "dotenv": "17.2.3",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-jsx-a11y": "6.4.1",
+    "eslint-plugin-playwright": "2.1.0",
+    "eslint-plugin-prettier": "5.2.1",
+    "eslint-plugin-react-refresh": "0.4.16",
+    "globals": "15.14.0",
+    "husky": "9.1.7",
+    "lint-staged": "15.2.11",
+    "markdownlint-cli": "^0.12.0",
+    "tsx": "4.20.5",
+    "typescript": "5.7.2",
+    "vite": "6.4.1",
+    "vitest": "4.0.16"
   }
 }
