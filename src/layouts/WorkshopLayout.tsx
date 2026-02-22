@@ -1,3 +1,4 @@
+// src/layouts/WorkshopLayout.tsx
 import type { Theme } from '@mui/material';
 import {
   AppBar,
@@ -10,7 +11,9 @@ import {
   Toolbar,
   Typography,
 } from '@mui/material';
+import { useEffect } from 'react';
 import { Outlet, useLocation, useNavigate } from 'react-router-dom';
+import { useUeTheme } from '../context/ThemeContext'; // <-- Interfacing with the Core
 
 const DRAWER_WIDTH = 280;
 
@@ -35,17 +38,19 @@ const ROOM_NODES = [
 export const WorkshopLayout = () => {
   const navigate = useNavigate();
   const location = useLocation();
-  const ueTheme = getUETheme(location.pathname);
+  const { setTheme } = useUeTheme();
+
+  // Asynchronous Execution: Sync the URL to the physical DOM layer
+  useEffect(() => {
+    const activeLoadout = getUETheme(location.pathname);
+    setTheme(activeLoadout);
+  }, [location.pathname, setTheme]);
 
   return (
-    <Box
-      className="ue-terminal-shell"
-      data-ue-theme={ueTheme}
-      sx={{ display: 'flex', minHeight: '100vh' }}
-    >
+    // The Box is now just a layout container. The CSS variables flow down from the <html> tag.
+    <Box sx={{ display: 'flex', minHeight: '100vh' }}>
       <AppBar
         position="fixed"
-        // Fixed: Explicitly typed 'theme' to satisfy the logic gate
         sx={{ zIndex: (theme: Theme) => theme.zIndex.drawer + 1 }}
       >
         <Toolbar>

@@ -1,3 +1,4 @@
+// src/App.tsx
 import { CssBaseline, ThemeProvider } from '@mui/material';
 import { HelmetProvider } from 'react-helmet-async';
 import {
@@ -5,6 +6,7 @@ import {
   Navigate,
   RouterProvider,
 } from 'react-router-dom';
+import { UeThemeProvider } from './context/ThemeContext'; // <-- The Global Logic Gate
 import { WorkshopLayout } from './layouts/WorkshopLayout';
 import { ArmoryRoom, LoadingDockRoom, PorchRoom } from './pages/Rooms';
 import './styles/UncleEntity.css';
@@ -17,7 +19,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/workshop',
-    element: <WorkshopLayout />, // The Shell now lives inside here
+    element: <WorkshopLayout />,
     children: [
       { path: 'armory', element: <ArmoryRoom /> },
       { path: 'porch', element: <PorchRoom /> },
@@ -30,7 +32,10 @@ export const App = () => (
   <HelmetProvider>
     <ThemeProvider theme={customTheme}>
       <CssBaseline />
-      <RouterProvider router={router} />
+      {/* S.A.F.E.H.O.O.D. Shell Initialization */}
+      <UeThemeProvider>
+        <RouterProvider router={router} />
+      </UeThemeProvider>
     </ThemeProvider>
   </HelmetProvider>
 );

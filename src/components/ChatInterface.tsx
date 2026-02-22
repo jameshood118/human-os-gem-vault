@@ -1,135 +1,103 @@
-import {
-  Box,
-  List,
-  ListItem,
-  Paper,
-  TextField,
-  Typography,
-} from '@mui/material';
+// src/components/ChatInterface.tsx
+import { Box, Typography } from '@mui/material';
 import { useEffect, useRef, useState } from 'react';
+import { ChatInput } from './ChatInput';
+import type { MessagePayload } from './ChatMessage';
+import { ChatMessage } from './ChatMessage';
 
-interface Message {
-  id: string;
-  sender: 'Pilot' | 'Overseer' | 'System';
-  text: string;
-  timestamp: Date;
+interface ChatInterfaceProps {
+  roomName: string;
+  systemMessage: string;
 }
 
-export const ChatInterface = ({ roomName }: { roomName: string }) => {
-  const [messages, setMessages] = useState<Message[]>([]);
-  const [inputValue, setInputValue] = useState('');
-  const scrollRef = useRef<HTMLDivElement>(null);
+export const ChatInterface = ({
+  roomName,
+  systemMessage,
+}: ChatInterfaceProps) => {
+  const [messages, setMessages] = useState<MessagePayload[]>([]);
+  const messagesEndRef = useRef<HTMLDivElement>(null);
 
-  // Auto-scroll logic: Environment Optimization for readability
+  // Auto-scroll to the bottom of the feed when a new message drops
+  const scrollToBottom = () => {
+    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  };
+
   useEffect(() => {
-    if (scrollRef.current) {
-      scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
-    }
+    scrollToBottom();
   }, [messages]);
 
-  const handleSend = () => {
-    if (!inputValue.trim()) return;
-
-    const newMessage: Message = {
+  const handlePayloadExecution = (payload: string) => {
+    // 1. Log the Pilot's input
+    const pilotMsg: MessagePayload = {
       id: crypto.randomUUID(),
-      sender: 'Pilot',
-      text: inputValue,
-      timestamp: new Date(),
+      role: 'pilot',
+      content: payload,
     };
 
-    setMessages((prev) => [...prev, newMessage]);
-    setInputValue('');
+    setMessages((prev) => [...prev, pilotMsg]);
 
-    // Trigger Overseer Echo (Simulated Async Execution)
+    // 2. SIMULATION: Trigger the Gem's response (Replace this with actual LLM hook later)
     setTimeout(() => {
-      const response: Message = {
+      const systemMsg: MessagePayload = {
         id: crypto.randomUUID(),
-        sender: 'Overseer',
-        text: `LOG: Interaction verified in ${roomName}. System resources optimized.`,
-        timestamp: new Date(),
+        role: 'system',
+        content: `[ACK] Payload received by ${roomName}.\nParsing execution string: "${payload}"\nStatus: Awaiting localized AI linkage.`,
       };
-      setMessages((prev) => [...prev, response]);
-    }, 1000);
+      setMessages((prev) => [...prev, systemMsg]);
+    }, 600);
   };
 
   return (
     <Box
-      sx={{ display: 'flex', flexDirection: 'column', height: '100%', gap: 2 }}
+      sx={{
+        display: 'flex',
+        flexDirection: 'column',
+        height: 'calc(100vh - 88px)',
+        width: '100%',
+        maxWidth: '1200px',
+        mx: 'auto',
+      }}
     >
-      {/* Message Feed: The Log Archive */}
-      <Paper
-        ref={scrollRef}
+      {/* The Output/History Area */}
+      <Box
         sx={{
           flexGrow: 1,
           overflowY: 'auto',
-          backgroundColor: 'rgba(0, 0, 0, 0.4)',
-          border: '1px solid var(--ue-glow-secondary)',
-          p: 2,
+          p: 3,
           display: 'flex',
           flexDirection: 'column',
+          // Custom Scrollbar for the Void
+          '&::-webkit-scrollbar': { width: '8px' },
+          '&::-webkit-scrollbar-track': { background: 'rgba(0,0,0,0.2)' },
+          '&::-webkit-scrollbar-thumb': {
+            background: 'var(--ue-glow-secondary)',
+            borderRadius: '4px',
+          },
         }}
       >
-        <List disablePadding>
-          {messages.map((msg) => (
-            <ListItem
-              key={msg.id}
-              sx={{
-                flexDirection: 'column',
-                alignItems: 'flex-start',
-                mb: 2,
-                px: 0,
-              }}
-            >
-              <Typography
-                variant="caption"
-                sx={{ color: 'var(--ue-glow-secondary)', fontWeight: 'bold' }}
-              >
-                [{msg.timestamp.toLocaleTimeString()}] {msg.sender}:
-              </Typography>
-              <Typography
-                variant="body1"
-                className={msg.sender === 'Overseer' ? 'ue-glow-text' : ''}
-                sx={{
-                  fontFamily: 'monospace',
-                  whiteSpace: 'pre-wrap',
-                  wordBreak: 'break-word',
-                }}
-              >
-                {msg.text}
-              </Typography>
-            </ListItem>
-          ))}
-        </List>
-      </Paper>
+        <Typography variant="h3" className="ue-glow-text" gutterBottom>
+          {roomName}
+        </Typography>
+        <Typography
+          variant="body1"
+          color="text.secondary"
+          sx={{ mb: 4, fontFamily: 'monospace' }}
+        >
+          &gt; SYSTEM STATUS: {systemMessage}
+        </Typography>
 
-      {/* Terminal Input: The Direct Link */}
-      <Box
-        component="form"
-        onSubmit={(e) => {
-          e.preventDefault();
-          handleSend();
-        }}
-      >
-        <TextField
-          fullWidth
-          variant="outlined"
-          placeholder={`Input Protocol for ${roomName}...`}
-          value={inputValue}
-          onChange={(e) => setInputValue(e.target.value)}
-          autoComplete="off"
-          slotProps={{
-            input: {
-              sx: {
-                fontFamily: 'monospace',
-                backgroundColor: 'rgba(0, 0, 0, 0.6)',
-                '& fieldset': { borderColor: 'var(--ue-glow-primary)' },
-                '&:hover fieldset': {
-                  borderColor: 'var(--ue-glow-secondary) !important',
-                },
-              },
-            },
-          }}
-        />
+        {/* Render the Log History */}
+        {messages.map((msg) => (
+          <ChatMessage key={msg.id} message={msg} />
+        ))}
+
+        {/* Invisible anchor for auto-scrolling */}
+        <div ref={messagesEndRef} />
+      </Box>
+
+      {/* The Input Area */}
+      <Box sx={{ flexShrink: 0, p: 2 }}>
+        <ChatInput onExecute={handlePayloadExecution} />
       </Box>
     </Box>
   );
