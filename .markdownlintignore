@@ -1,0 +1,7 @@
+test-results/
+docs/bug-reports/
+dist/
+
+# --- ☢️ FORT DE SOTO: THE QUARANTINE ZONE ☢️ ---
+# Do not yell at the AI's raw markdown generation
+docs/qa-tasks/

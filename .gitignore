@@ -1,20 +1,56 @@
-# Dependencies
-node_modules/
-package-lock.json
-
-# System Files (The "Ghost in the Machine")
+# --- Logs & System Scraps (Human OS Noise) ---
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 .DS_Store
-Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.zip
 
-# VS Code Settings (Local Environment Optimization)
-.vscode/*
-!.vscode/extensions.json
-!.vscode/settings.json
-!.vscode/launch.json
-
-# Environment Variables (Security Verification)
-.env
-.env.local
-
-# Windows System Junk
+# OS Ghost Metadata / Alternate Data Streams
 *:Zone.Identifier
+
+# --- Tooling Caches ---
+.eslintcache
+
+# --- Dependencies & Build Outputs (Physical Layer) ---
+node_modules/
+dist/
+dist-ssr/
+coverage/
+.next/
+.out/
+build/
+
+# --- Environment Secrets (Integrity Layer) ---
+# We block all .env variants to prevent leaking credentials
+.env
+.env.*
+!.env.example
+
+# --- Playwright (Automated Verification) ---
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+.auth/
+
+# --- Editor & IDEs (Developer Personalization) ---
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Docker & Supabase (Local Infrastructure) ---
+# Ignore the volatile local state but keep the migrations/config
+supabase/.temp/
+supabase/.branches/
+supabase/.storage/
+# Docker Desktop junk
+.docker/

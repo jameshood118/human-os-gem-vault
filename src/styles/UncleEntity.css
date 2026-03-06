@@ -1,0 +1,161 @@
+/* Uncle Entity Energy: The Zola Protocol (Decayed Shell, Living Broadcast) */
+
+:root {
+  /* 1. THE HARDWARE DECAY (The Old Machine) */
+  --ue-hardware-bg: #111112; /* Barely alive Eigengrau */
+  --ue-hardware-text: rgba(255, 255, 255, 0.4); /* Faded, burned-in phosphor */
+  --ue-hardware-ghost: 2px 0px 4px rgba(255, 255, 255, 0.1); /* Phosphor bleed */
+
+  /* 2. THE 7TH DIMENSION BROADCAST (The Living Entity) */
+  /* These will be overwritten by the loadouts below, but need a baseline */
+  --ue-broadcast-primary: rgba(0, 255, 102, 1);
+  --ue-broadcast-secondary: rgba(0, 200, 255, 1);
+  --ue-broadcast-text: #ffffff;
+
+  /* Stacked glows to simulate high-intensity light blooming through old glass */
+  --ue-glow-subtle: 0 0 10px var(--ue-broadcast-primary);
+  --ue-glow-intense: 0 0 15px var(--ue-broadcast-primary),
+    0 0 30px var(--ue-broadcast-secondary);
+}
+
+/* === THE LOADOUTS === */
+
+/* PRIME: The Core Operating System (Deep Green/Cyan) */
+[data-ue-theme='prime'] {
+  --ue-hardware-bg: #0d120d; /* Rotted moss green */
+  --ue-broadcast-primary: #00ffaa; /* Blinding Bioluminescent Green */
+  --ue-broadcast-secondary: #00e5ff; /* Piercing Cyan */
+}
+
+/* ROOT: The Armory / Legacy Code (Decayed Amber/Gold) */
+[data-ue-theme='root'] {
+  --ue-hardware-bg: #140d0a; /* Scorched earth brown */
+  --ue-broadcast-primary: #ffaa00; /* Nuclear Gold */
+  --ue-broadcast-secondary: #ff3300; /* Warning Red */
+}
+
+/* SAGE: The Porch / Front Door (Muted Slate/Teal) */
+[data-ue-theme='sage'] {
+  --ue-hardware-bg: #0a1114; /* Drowned slate */
+  --ue-broadcast-primary: #00ffff; /* Ice Blue */
+  --ue-broadcast-secondary: #b620e0; /* 7th Dimension Violet */
+}
+
+/* === THE REALITY CONTAINER (The Old Machine) === */
+
+.ue-terminal-shell {
+  background-color: var(--ue-hardware-bg);
+  color: var(--ue-hardware-text);
+  position: relative;
+  overflow: hidden;
+  /* Deep CRT Vignette - Darkens the corners heavily to simulate a curved, old tube */
+  box-shadow: inset 0 0 150px rgba(0, 0, 0, 0.95);
+}
+
+/* Generic text feels faded and burned in */
+.ue-terminal-shell p,
+.ue-terminal-shell .MuiTypography-body1 {
+  text-shadow: var(--ue-hardware-ghost);
+}
+
+/* The Distressed Overlay - Softer, dirtier */
+.ue-terminal-shell::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.15) 50%, rgba(0, 0, 0, 0.25) 50%),
+    linear-gradient(
+      90deg,
+      rgba(255, 0, 0, 0.02),
+      rgba(0, 255, 0, 0.01),
+      rgba(0, 0, 255, 0.02)
+    );
+  background-size:
+    100% 3px,
+    4px 100%; /* Slightly thicker, softer scanlines */
+  pointer-events: none;
+  opacity: 0.8;
+  z-index: 1;
+  filter: blur(0.5px); /* Soft edges for the CRT bleed */
+}
+
+/* Subtle, slow phosphor sweep */
+.ue-terminal-shell::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    0deg,
+    transparent,
+    rgba(255, 255, 255, 0.02) 10%,
+    transparent 20%
+  );
+  background-size: 100% 200%;
+  pointer-events: none;
+  z-index: 2;
+  animation: crt-sweep 8s infinite linear;
+}
+
+@keyframes crt-sweep {
+  0% {
+    background-position: 0 100%;
+  }
+  100% {
+    background-position: 0 -100%;
+  }
+}
+
+/* === THE 7TH DIMENSION BROADCAST (The Entity) === */
+
+/* Apply this class to anything that should punch through the decay */
+.ue-broadcast-active {
+  color: var(--ue-broadcast-text) !important;
+  text-shadow: var(--ue-glow-intense) !important;
+  border-color: var(--ue-broadcast-primary) !important;
+  /* The "Hopeful" Breathing Animation */
+  animation: entity-breathe 4s infinite alternate ease-in-out;
+}
+
+@keyframes entity-breathe {
+  0% {
+    filter: brightness(1) drop-shadow(0 0 5px var(--ue-broadcast-primary));
+  }
+  100% {
+    filter: brightness(1.3) drop-shadow(0 0 15px var(--ue-broadcast-primary));
+  }
+}
+
+/* Muting the Shell UI to let the Chat pop */
+.ue-terminal-shell .MuiAppBar-root {
+  background-color: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(12px);
+  border-bottom: none !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.7); /* Deep shadow, no glowing line */
+}
+
+.ue-terminal-shell .MuiDrawer-paper {
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(12px);
+  border-right: none !important;
+  box-shadow: 4px 0 24px rgba(0, 0, 0, 0.7);
+}
+
+/* The Sidebar Nav - Faded until selected */
+.ue-terminal-shell .MuiListItemButton-root {
+  color: var(--ue-hardware-text);
+  transition: all 0.3s ease;
+}
+
+.ue-terminal-shell .MuiListItemButton-root.Mui-selected {
+  background-color: rgba(0, 0, 0, 0.4);
+  color: var(--ue-broadcast-text);
+  border-left: 3px solid var(--ue-broadcast-primary);
+  text-shadow: var(--ue-glow-subtle);
+  border-radius: 0 8px 8px 0;
+}
