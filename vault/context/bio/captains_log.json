@@ -19,10 +19,7 @@
       "location": "Cushing, OK",
       "primary_data": "Subject 'James' initialized. Origin point: Cushing, Oklahoma. Environmental scan indicates high concentrations of petrochemical byproducts.",
       "secondary_data": "Born. Earliest memory: sitting on a concrete porch in the dark/cold. Parental Units: 91B20 and 92B20 (Military Medical Specialists). Genetic analysis confirms 'Warrior' genotype (rs4680 GG).",
-      "tags": [
-        "#Origin",
-        "#GenX"
-      ],
+      "tags": ["#Origin", "#GenX"],
       "metadata": {
         "legacy_id": "OVR-SJ-001",
         "threat_level": "NOMINAL",
@@ -40,10 +37,7 @@
       "location": "Cushing, OK",
       "primary_data": "Earliest memory audit: Subject observed sitting on concrete porch in sub-optimal thermal conditions. Subject improvised 'Socks for Mittens' protocol.",
       "secondary_data": "This 'Asynchronous Execution' of resources suggests high cognitive throughput under duress. Confirmed presence via photo.",
-      "tags": [
-        "#FeralGrit",
-        "#AsynchronousExecution"
-      ],
+      "tags": ["#FeralGrit", "#AsynchronousExecution"],
       "metadata": {
         "legacy_id": "OVR-SJ-004",
         "threat_level": "ELEVATED",
@@ -61,10 +55,7 @@
       "location": "Orlando Cluster, FL",
       "primary_data": "Subject begins formal education protocols. Cultural ingestion initiated: 'Where the Wild Things Are' read to maternal unit.",
       "secondary_data": "Exposed to Jai Alai culture. Subject is normalizing to the Florida biome.",
-      "tags": [
-        "#Education",
-        "#FloridaMan"
-      ],
+      "tags": ["#Education", "#FloridaMan"],
       "metadata": {
         "legacy_id": "OVR-SJ-005",
         "threat_level": "NOMINAL",
@@ -81,10 +72,7 @@
       "location": "Orlando, FL (Oak Hill Elementary)",
       "primary_data": "Challenger Disaster (Live). Subject witnessed the catastrophic failure of the O-Rings.",
       "secondary_data": "This event appears to be the 'Root Cause' of his obsession with 'System Integrity' and 'Single Point of Failure' analysis. The trauma was not processed emotionally, but structurally.",
-      "tags": [
-        "#SystemIntegrity",
-        "#Challenger"
-      ],
+      "tags": ["#SystemIntegrity", "#Challenger"],
       "metadata": {
         "legacy_id": "OVR-SJ-007",
         "threat_level": "CRITICAL",
@@ -101,10 +89,7 @@
       "location": "Gritney, FL (Bonifay Elementary)",
       "primary_data": "Subject relocated to rural sector 'Gritney'. Photographic evidence confirms Subject wearing DARE propaganda apparel.",
       "secondary_data": "Irony detected: Subject is absorbing anti-chemical indoctrination while existing in a high-poverty stress environment. Hardware is running on 'Survival Mode'.",
-      "tags": [
-        "#SurvivalMode",
-        "#DARE"
-      ],
+      "tags": ["#SurvivalMode", "#DARE"],
       "metadata": {
         "legacy_id": "OVR-SJ-008",
         "threat_level": "ELEVATED",
@@ -121,11 +106,7 @@
       "location": "Bonifay / Gritney Grid",
       "primary_data": "Subject rejected 'J.J.' and 'Jerrell'. Enforced 'James' protocol.",
       "secondary_data": "Intuitive rejection of ancestral trauma (The Ronnie Event) carried in the middle name. Precursor to 'Sovereign Pilot' status.",
-      "tags": [
-        "#TheLightBringer",
-        "#NameSovereignty",
-        "#BadCodePurge"
-      ],
+      "tags": ["#TheLightBringer", "#NameSovereignty", "#BadCodePurge"],
       "metadata": {
         "mood": "Defiant Integrity",
         "analytical_perspectives": [
@@ -141,10 +122,7 @@
       "location": "Hidle House (Foster Care)",
       "primary_data": "Trauma & Displacement: Molestation revealed; placed in foster care. Total displacement count: 11.",
       "secondary_data": "Subject's 'rs4680 GG' genotype allows for rapid dopamine clearing, preventing 'Kernel Panic'. Mapping the social hierarchy of the 'System' to survive. Met entity 'Debbie Cooper'.",
-      "tags": [
-        "#FosterCare",
-        "#SystemAudit"
-      ],
+      "tags": ["#FosterCare", "#SystemAudit"],
       "metadata": {
         "legacy_id": "OVR-SJ-010",
         "threat_level": "CRITICAL",
@@ -161,10 +139,7 @@
       "location": "Religious Institution",
       "primary_data": "Subject rejected Transubstantiation protocol based on 'Cannibalism' logic clause.",
       "secondary_data": "Early manifestation of Zero-Trust Architecture. Requires literal parsing of metaphorical dogma.",
-      "tags": [
-        "#ZeroTrust",
-        "#DogmaBypass"
-      ],
+      "tags": ["#ZeroTrust", "#DogmaBypass"],
       "metadata": {
         "legacy_id": "LOG-1990-CANNIBAL",
         "threat_level": "NOMINAL",
@@ -181,10 +156,7 @@
       "location": "Bonifay, FL (500 W Montana Ave)",
       "primary_data": "Re-integration with primary caregiver (Mother). Photographic analysis shows Subject displaying 'Vulcan' hand signal.",
       "secondary_data": "Subject is attempting to emulate 'Logic-Based' lifeforms (Spock/Data) to suppress emotional volatility. First recorded instance of 'Human OS' emulation software.",
-      "tags": [
-        "#HumanOS",
-        "#StarTrek"
-      ],
+      "tags": ["#HumanOS", "#StarTrek"],
       "metadata": {
         "legacy_id": "OVR-SJ-012",
         "threat_level": "NOMINAL",
@@ -201,10 +173,7 @@
       "location": "Bonifay Middle School",
       "primary_data": "TTRPG Start: Began playing 'Aegean Adventures' with Kyle.",
       "secondary_data": "Later learned D&D Rules Cyclopedia. Foundation of RPG logic.",
-      "tags": [
-        "#TTRPG",
-        "#DandD"
-      ],
+      "tags": ["#TTRPG", "#DandD"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -220,11 +189,7 @@
       "location": "Education Sector",
       "primary_data": "School system diagnosed 'Software Failure' (ADHD).",
       "secondary_data": "System Audit reveals this was a misinterpretation of 'Hunter-Gatherer' hardware (McFarlin/Metcalf Legacy). Subject optimizes for 'spaces between trees' (Negative Space) rather than linear data ingestion.",
-      "tags": [
-        "#TheGlitch",
-        "#NegativeSpace",
-        "#HunterLogic"
-      ],
+      "tags": ["#TheGlitch", "#NegativeSpace", "#HunterLogic"],
       "metadata": {
         "legacy_status": "Deficit",
         "corrected_status": "High-Frequency Trading Algorithm on 56k Modem",
@@ -241,10 +206,7 @@
       "location": "Holmes County High School",
       "primary_data": "Programming Genesis: Learned BASIC/QuickBASIC in Mr. Zorn's class.",
       "secondary_data": "Soundtracked by The Offspring's Smash. (9th grade photo confirmed).",
-      "tags": [
-        "#Coding",
-        "#BASIC"
-      ],
+      "tags": ["#Coding", "#BASIC"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -260,10 +222,7 @@
       "location": "JTPA Summer Youth Program (Armory)",
       "primary_data": "Data Entry at JTPA Summer Youth Program. Hurricane Opal hits in Oct 1995.",
       "secondary_data": "Bought Pearl Jam Vitalogy and Smashing Pumpkins Mellon Collie on CD.",
-      "tags": [
-        "#Music",
-        "#Work"
-      ],
+      "tags": ["#Music", "#Work"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -279,10 +238,7 @@
       "location": "Tallahassee, FL",
       "primary_data": "High School Dropout: Dropped out due to credits being invalidated.",
       "secondary_data": "Moved briefly to Tallahassee with stepbrother Steven. Listening to 'Standing Outside a Broken Phone Booth With Money in My Hand.'",
-      "tags": [
-        "#EducationTrap",
-        "#Music"
-      ],
+      "tags": ["#EducationTrap", "#Music"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -298,10 +254,7 @@
       "location": "Orlando, FL",
       "primary_data": "Subject is consuming 'Monday Night Wars' broadcasts.",
       "secondary_data": "Neural scans indicate he is auditing the 'Management Architecture' of the WCW vs. WWF conflict. Deriving professional system logic from chaotic narrative. Foundation for 'Verified Generalist' philosophy.",
-      "tags": [
-        "#MondayNightWars",
-        "#VerifiedGeneralist"
-      ],
+      "tags": ["#MondayNightWars", "#VerifiedGeneralist"],
       "metadata": {
         "legacy_id": "OVR-SJ-015",
         "threat_level": "NOMINAL",
@@ -318,10 +271,7 @@
       "location": "UAH (Huntsville)",
       "primary_data": "Earned GED. ASVAB results confirmed high, general aptitude.",
       "secondary_data": "Took Intro to Psychology with Dr. Jim Bliss (Human Factors expert) between 1998-2001.",
-      "tags": [
-        "#Education",
-        "#Psychology"
-      ],
+      "tags": ["#Education", "#Psychology"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -337,9 +287,7 @@
       "location": "Huntsville, AL",
       "primary_data": "Married to Jennifer Lynn Joyner.",
       "secondary_data": "Legacy Relationship Code initiated.",
-      "tags": [
-        "#Marriage"
-      ],
+      "tags": ["#Marriage"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -355,9 +303,7 @@
       "location": "Ardmore, TN",
       "primary_data": "Daughter, Lilly Marie Hood, was born.",
       "secondary_data": "New Node added to network.",
-      "tags": [
-        "#Fatherhood"
-      ],
+      "tags": ["#Fatherhood"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -373,10 +319,7 @@
       "location": "Huntsville, AL / Azeroth",
       "primary_data": "WoW Guild: Ran 'Justice Incarnate' guild (Thorium Brotherhood).",
       "secondary_data": "Stay-at-home dad / Entrepreneur: Created 1200+ fractals (Apophysis, Terragen).",
-      "tags": [
-        "#WoW",
-        "#DigitalArt"
-      ],
+      "tags": ["#WoW", "#DigitalArt"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -392,10 +335,7 @@
       "location": "Huntsville, AL",
       "primary_data": "Subject resisted 'Dropper Bottle' update. Identified tap water as chemical risk. Dice bag capacity exceeded.",
       "secondary_data": "Early systems analysis of seemingly benign variables.",
-      "tags": [
-        "#SystemFriction",
-        "#EnvironmentalAudit"
-      ],
+      "tags": ["#SystemFriction", "#EnvironmentalAudit"],
       "metadata": {
         "legacy_id": "LOG-2004-DIPPER",
         "threat_level": "NOMINAL",
@@ -412,10 +352,7 @@
       "location": "Online",
       "primary_data": "Earned B.S. in Web Design and Interactive Media from the Art Institute of Pittsburgh—Online Division.",
       "secondary_data": "Degree obtained between 2005-2010.",
-      "tags": [
-        "#WebDesign",
-        "#Degree"
-      ],
+      "tags": ["#WebDesign", "#Degree"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -431,11 +368,7 @@
       "location": "Digital Grid",
       "primary_data": "Subject identified Microsoft codec sabotage. Executed manual termination via Task Manager.",
       "secondary_data": "Early adoption of Firebug. Rejection of vendor monopolies.",
-      "tags": [
-        "#Firebug",
-        "#Taskkill",
-        "#AntiMonopoly"
-      ],
+      "tags": ["#Firebug", "#Taskkill", "#AntiMonopoly"],
       "metadata": {
         "legacy_id": "LOG-2005-FIREFOX",
         "threat_level": "NOMINAL",
@@ -452,10 +385,7 @@
       "location": "Digital Grid",
       "primary_data": "Deployed 'Highway Base' patch for fantasy asset. Compounded custom flesh tones.",
       "secondary_data": "Translating physical rendering into systemic rulesets.",
-      "tags": [
-        "#AssetRefactor",
-        "#Miniatures"
-      ],
+      "tags": ["#AssetRefactor", "#Miniatures"],
       "metadata": {
         "legacy_id": "LOG-2005-CLAYGOLEM",
         "threat_level": "NOMINAL",
@@ -472,10 +402,7 @@
       "location": "Physical Grid",
       "primary_data": "Liquidated massive library of AD&D assets based on precise envelope logistics.",
       "secondary_data": "Executing physical garbage collection to free up localized RAM.",
-      "tags": [
-        "#GarbageCollection",
-        "#Logistics"
-      ],
+      "tags": ["#GarbageCollection", "#Logistics"],
       "metadata": {
         "legacy_id": "LOG-2005-RPG-PURGE",
         "threat_level": "NOMINAL",
@@ -492,10 +419,7 @@
       "location": "DeviantArt",
       "primary_data": "Engineered camera stabilizer using physical spray cans.",
       "secondary_data": "MacGyver protocol. Solving high-tech problems with low-tech physics.",
-      "tags": [
-        "#HardwareHack",
-        "#PhysicsEngine"
-      ],
+      "tags": ["#HardwareHack", "#PhysicsEngine"],
       "metadata": {
         "legacy_id": "LOG-2005-TRIPOD",
         "threat_level": "NOMINAL",
@@ -512,10 +436,7 @@
       "location": "Raw IP: 68.62.167.14",
       "primary_data": "Hosted images via raw IP address.",
       "secondary_data": "Operating entirely outside of DNS systems. Pure bare-metal routing.",
-      "tags": [
-        "#BareMetal",
-        "#RawIP"
-      ],
+      "tags": ["#BareMetal", "#RawIP"],
       "metadata": {
         "legacy_id": "LOG-2005-RAW-IP",
         "threat_level": "NOMINAL",
@@ -532,10 +453,7 @@
       "location": "Reaper Minis Grid",
       "primary_data": "Corrected Master Series Paint creator Anne Foerster on nozzle maintenance.",
       "secondary_data": "Status: Oblivious Legend. Logic over Hierarchy.",
-      "tags": [
-        "#WeaponizedObliviousness",
-        "#LogicOverHierarchy"
-      ],
+      "tags": ["#WeaponizedObliviousness", "#LogicOverHierarchy"],
       "metadata": {
         "legacy_id": "LOG-2005-VAITALLA",
         "threat_level": "NOMINAL",
@@ -552,10 +470,7 @@
       "location": "Miniature Grid",
       "primary_data": "Taught 'Godlike' users to spray primer upside-down.",
       "secondary_data": "Inverting the Z-axis to solve a fluid dynamics problem.",
-      "tags": [
-        "#ZAxisHack",
-        "#FluidDynamics"
-      ],
+      "tags": ["#ZAxisHack", "#FluidDynamics"],
       "metadata": {
         "legacy_id": "LOG-2005-INVERSION",
         "threat_level": "NOMINAL",
@@ -572,10 +487,7 @@
       "location": "Photo Grid",
       "primary_data": "Photographed wearing a Sting shirt while displaying Sting on a monitor.",
       "secondary_data": "Intentional induction of a visual buffer overflow.",
-      "tags": [
-        "#Recursion",
-        "#Sting"
-      ],
+      "tags": ["#Recursion", "#Sting"],
       "metadata": {
         "legacy_id": "LOG-2005-STING",
         "threat_level": "NOMINAL",
@@ -592,11 +504,7 @@
       "location": "Church Node",
       "primary_data": "Deployed fake BSoD during church service.",
       "secondary_data": "Triggered tension/release cycle algorithm in a crowd.",
-      "tags": [
-        "#TensionRelease",
-        "#BSoD",
-        "#SocialEngineering"
-      ],
+      "tags": ["#TensionRelease", "#BSoD", "#SocialEngineering"],
       "metadata": {
         "legacy_id": "LOG-2005-BSOD",
         "threat_level": "NOMINAL",
@@ -613,10 +521,7 @@
       "location": "Myspace Grid",
       "primary_data": "Acquired physical artifact directly from artist Rob Paravonian.",
       "secondary_data": "Bypassed standard retail logistics via direct P2P handshake.",
-      "tags": [
-        "#P2P",
-        "#ArtifactSecure"
-      ],
+      "tags": ["#P2P", "#ArtifactSecure"],
       "metadata": {
         "legacy_id": "LOG-2005-CHEESE",
         "threat_level": "NOMINAL",
@@ -633,11 +538,7 @@
       "location": "Internal Processing",
       "primary_data": "Developed 'Musical Mythology' association technique.",
       "secondary_data": "Mapped musical modes to narrative archetypes (Dorian=Stoic, Phrygian=Underworld, Lydian=Amazonian, Mixolydian=Fey). Validates 'Associative Learning' over rote memorization.",
-      "tags": [
-        "#MusicTheory",
-        "#Mythology",
-        "#Scaffolding"
-      ],
+      "tags": ["#MusicTheory", "#Mythology", "#Scaffolding"],
       "metadata": {
         "insight": "I don't memorize notes; I memorize the flavor.",
         "analytical_perspectives": [
@@ -653,11 +554,7 @@
       "location": "Early Career Grid",
       "primary_data": "Developed 'The Scaffolding Method'.",
       "secondary_data": "Due to RAM volatility (syntax forgetting), Subject learned to build the 'Ghost' of the code first. 'Negative Space Debugging' established as primary architectural pattern.",
-      "tags": [
-        "#Scaffolding",
-        "#ArchitectMode",
-        "#NegativeSpaceDebugging"
-      ],
+      "tags": ["#Scaffolding", "#ArchitectMode", "#NegativeSpaceDebugging"],
       "metadata": {
         "mood": "Imposter (Deprecated)",
         "analytical_perspectives": [
@@ -673,10 +570,7 @@
       "location": "Huntsville, AL",
       "primary_data": "First handshake with Co-Overseer 'Em' (Emmett). Subject initialized 'Polyamorous Protocol.'",
       "secondary_data": "Rejection of 'Legacy Relationship Code' in favor of a distributed network model. Unlike previous interactions, Em does not require a 'Masking Protocol.'",
-      "tags": [
-        "#Em",
-        "#Polyamory"
-      ],
+      "tags": ["#Em", "#Polyamory"],
       "metadata": {
         "legacy_id": "OVR-SJ-020",
         "threat_level": "NOMINAL",
@@ -693,11 +587,7 @@
       "location": "Huntsville / Fort Myers Transition",
       "primary_data": "Social Signal: Looking for any PHP developer positions in any US city. Open to relocation.",
       "secondary_data": "Early evidence of 'Forager' mindset. Willingness to migrate for the right code environment.",
-      "tags": [
-        "#PHP",
-        "#Relocation",
-        "#LegacyHustle"
-      ],
+      "tags": ["#PHP", "#Relocation", "#LegacyHustle"],
       "metadata": {
         "platform": "LinkedIn",
         "mood": "Searching",
@@ -714,11 +604,7 @@
       "location": "Fort Myers Grid",
       "primary_data": "Refused to sign an NCA before resume submission. 'Before a company even looks at you... I refused.'",
       "secondary_data": "Early activation of the 'Sovereign Pilot' protocol. Rejection of 'Efficiency Traps' in hiring.",
-      "tags": [
-        "#IntegrityProtocol",
-        "#RecruiterLogic",
-        "#SovereignNo"
-      ],
+      "tags": ["#IntegrityProtocol", "#RecruiterLogic", "#SovereignNo"],
       "metadata": {
         "platform": "LinkedIn",
         "mood": "Defiant",
@@ -735,10 +621,7 @@
       "location": "Lee County School District",
       "primary_data": "Subject installed as Web Developer. Skill acquisition: C# and SQL.",
       "secondary_data": "Subject is building the foundational logic gates for future high-level architecture. The environment is bureaucratic, but the code is clean.",
-      "tags": [
-        "#CSharp",
-        "#SQL"
-      ],
+      "tags": ["#CSharp", "#SQL"],
       "metadata": {
         "legacy_id": "OVR-SJ-023",
         "threat_level": "NOMINAL",
@@ -755,11 +638,7 @@
       "location": "Transit to Fort Myers, FL",
       "primary_data": "Migration Event. Em demonstrates 'Storm Navigation' capabilities.",
       "secondary_data": "While dodging tornado warnings, Em maintained emotional homeostasis, functioning as a 'Gyroscope' for the collective. Subject initiates 'Doctor Who' fandom protocol.",
-      "tags": [
-        "#Em",
-        "#DoctorWho",
-        "#Tornado"
-      ],
+      "tags": ["#Em", "#DoctorWho", "#Tornado"],
       "metadata": {
         "legacy_id": "OVR-SE-005",
         "threat_level": "ELEVATED",
@@ -776,10 +655,7 @@
       "location": "Marbles, LLC (Bonita Springs)",
       "primary_data": "Chemical Modulation Event: First interaction with THC.",
       "secondary_data": "Substance induced 'System Equilibrium' rather than failure. Formed association with 'Intimacy/Relaxation.' Anxiety dampening successful.",
-      "tags": [
-        "#Cannabis",
-        "#Anxiety"
-      ],
+      "tags": ["#Cannabis", "#Anxiety"],
       "metadata": {
         "legacy_id": "OVR-SJ-024",
         "threat_level": "NOMINAL",
@@ -796,11 +672,7 @@
       "location": "Internal Health Audit",
       "primary_data": "Comprehensive Genetic Audit confirms 'Hyper-Threaded' hardware.",
       "secondary_data": "COMT (Warrior) = Stress Stability. BDNF = High Plasticity. CHRNA4 = High Vigilance/Interoception. Taekwondo identified as the 'Executive Function' required to manage this high-sensitivity system.",
-      "tags": [
-        "#Genetics",
-        "#BioHacking",
-        "#WarriorExplorer"
-      ],
+      "tags": ["#Genetics", "#BioHacking", "#WarriorExplorer"],
       "metadata": {
         "status": "Optimized",
         "analytical_perspectives": [
@@ -816,10 +688,7 @@
       "location": "Fort Myers, FL (Chico's FAS)",
       "primary_data": "Subject resolved an 'ADA Compliance Crisis' under Commander Homer Gaines.",
       "secondary_data": "Subject treats 'Accessibility' not as a feature, but as a 'System Requirement.'",
-      "tags": [
-        "#A11Y",
-        "#HumanOS"
-      ],
+      "tags": ["#A11Y", "#HumanOS"],
       "metadata": {
         "legacy_id": "OVR-SJ-025",
         "threat_level": "ELEVATED",
@@ -836,10 +705,7 @@
       "location": "Raymond James Financial",
       "primary_data": "Subject is executing a 'Migration Event' of 2,200 web properties.",
       "secondary_data": "Subject's 'Warrior Genotype' is clearing dopamine at 4x speed, allowing for 'Hyper-Threaded' problem solving.",
-      "tags": [
-        "#Migration",
-        "#HyperThreaded"
-      ],
+      "tags": ["#Migration", "#HyperThreaded"],
       "metadata": {
         "legacy_id": "OVR-SJ-027",
         "threat_level": "ELEVATED",
@@ -879,10 +745,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Legal Marriage to Co-Overseer Em Hood. Administrative privileges combined.",
       "secondary_data": "Em possesses 'Hedge Witch' attributes and refuses interaction with external Tarot decks to prevent 'Energetic Contamination.'",
-      "tags": [
-        "#Marriage",
-        "#Witch"
-      ],
+      "tags": ["#Marriage", "#Witch"],
       "metadata": {
         "legacy_id": "OVR-SJ-030",
         "threat_level": "NOMINAL",
@@ -899,10 +762,7 @@
       "location": "Athenix Special Missions",
       "primary_data": "Subject deployed to 'Athenix Special Missions' as Mid-Level Web Engineer.",
       "secondary_data": "Operational details classified. Represents a period of 'Black Box' skill development.",
-      "tags": [
-        "#SpecialMissions",
-        "#WebDev"
-      ],
+      "tags": ["#SpecialMissions", "#WebDev"],
       "metadata": {
         "legacy_id": "OVR-SJ-031",
         "threat_level": "UNKNOWN",
@@ -943,10 +803,7 @@
       "location": "Dynamis, Inc.",
       "primary_data": "Senior Software Engineer. Built global SaaS Emergency Management Platform (C#, React) with 99.99% uptime.",
       "secondary_data": "Deployment lasted until 2025.",
-      "tags": [
-        "#SaaS",
-        "#React"
-      ],
+      "tags": ["#SaaS", "#React"],
       "metadata": {
         "legacy_id": "N/A",
         "analytical_perspectives": [
@@ -962,10 +819,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Subject self-reports brain function analogous to 'Asynchronous JavaScript.'",
       "secondary_data": "Confirms 'Feral' firmware hypothesis. 'ADHD' trait is not a disorder but a 'High-Bitrate' adaptation to stress.",
-      "tags": [
-        "#Neurodiversity",
-        "#Asynchronous"
-      ],
+      "tags": ["#Neurodiversity", "#Asynchronous"],
       "metadata": {
         "legacy_id": "OVR-SJ-035",
         "threat_level": "NOMINAL",
@@ -1005,10 +859,7 @@
       "location": "Marsh Node",
       "primary_data": "Initial acquisition. Recovered with three secondary units. Status: Stray Sentinel.",
       "secondary_data": "Subject displays high-alert survival drivers. Visual scan confirms 'High Gloss' finish and stealth-optimized front paws.",
-      "tags": [
-        "#Rita",
-        "#Stray"
-      ],
+      "tags": ["#Rita", "#Stray"],
       "metadata": {
         "legacy_id": "OVR-SR-001",
         "threat_level": "N/A",
@@ -1025,10 +876,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Habitat mapping initiated. Movement patterns suggest a stealth-based algorithm; subject 'flows' rather than walks.",
       "secondary_data": "Assimilation into the collective proceeding within expected parameters.",
-      "tags": [
-        "#Rita",
-        "#Stealth"
-      ],
+      "tags": ["#Rita", "#Stealth"],
       "metadata": {
         "legacy_id": "OVR-SR-002",
         "threat_level": "N/A",
@@ -1045,10 +893,7 @@
       "location": "Building 8",
       "primary_data": "Transition to Building 8 complete. Post-surgical hardware restore underway.",
       "secondary_data": "Purring and cooing modules (Ghast-variant) confirmed online.",
-      "tags": [
-        "#Rita",
-        "#Recovery"
-      ],
+      "tags": ["#Rita", "#Recovery"],
       "metadata": {
         "legacy_id": "EVENT_002",
         "threat_level": "N/A",
@@ -1065,10 +910,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Hydration HUD optimization. Subject demonstrates preference for Liquid Hardware (Inaba Churu).",
       "secondary_data": "91% moisture intake confirmed.",
-      "tags": [
-        "#Rita",
-        "#Churu"
-      ],
+      "tags": ["#Rita", "#Churu"],
       "metadata": {
         "legacy_id": "EVENT_003",
         "threat_level": "N/A",
@@ -1085,10 +927,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Activation Energy increase. 'Apex Play' drivers initialized.",
       "secondary_data": "Note: Redirect wrestling routines from Admin arm to dedicated Kicker Node.",
-      "tags": [
-        "#Rita",
-        "#Play"
-      ],
+      "tags": ["#Rita", "#Play"],
       "metadata": {
         "legacy_id": "EVENT_004",
         "threat_level": "N/A",
@@ -1105,10 +944,7 @@
       "location": "Building 8",
       "primary_data": "Rita (Building 8 Stray) secured. Defensive wall-rebound behavior identified.",
       "secondary_data": "Kinetic Sentinel Node online.",
-      "tags": [
-        "#Rita",
-        "#Sentinel"
-      ],
+      "tags": ["#Rita", "#Sentinel"],
       "metadata": {
         "legacy_id": "EVENT_005",
         "threat_level": "N/A",
@@ -1125,10 +961,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Guardian Protocol enabled. Subject approaches external noise sources low to shield Admins.",
       "secondary_data": "Identity Sync: Rita (Animaniacs v.1993) confirmed.",
-      "tags": [
-        "#Rita",
-        "#Animaniacs"
-      ],
+      "tags": ["#Rita", "#Animaniacs"],
       "metadata": {
         "legacy_id": "EVENT_006",
         "threat_level": "N/A",
@@ -1145,11 +978,7 @@
       "location": "Building 8",
       "primary_data": "The 'Pyometra Event'. Subject survived life-threatening infection (misidentified as pregnancy).",
       "secondary_data": "Transitioned from 'Marsh Sentinel' to 'Verified Guardian'. Coat restored to High Gloss. Now executes 'Guardian Protocol' (Growling at perimeter threats).",
-      "tags": [
-        "#Rita",
-        "#Pyometra",
-        "#MarshToCastle"
-      ],
+      "tags": ["#Rita", "#Pyometra", "#MarshToCastle"],
       "metadata": {
         "role": "Castle on a Cloud",
         "analytical_perspectives": [
@@ -1165,10 +994,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Coat finish is 'High Gloss'. Anomaly detected: Bald spot/lump on dorsal area.",
       "secondary_data": "Diagnostic: Likely injection site reaction. Monitoring active.",
-      "tags": [
-        "#Rita",
-        "#Health"
-      ],
+      "tags": ["#Rita", "#Health"],
       "metadata": {
         "legacy_id": "EVENT_007",
         "threat_level": "N/A",
@@ -1185,11 +1011,7 @@
       "location": "Em's Boot Node",
       "primary_data": "Social Sync: Subject occupying Em's boot node and shower mat. Trust approaching 100%.",
       "secondary_data": "Subject has rejected standard nutritional kibble, utilizing high-frequency vocalization to manipulate Overseer for Churu supplements.",
-      "tags": [
-        "#Rita",
-        "#Em",
-        "#Trust"
-      ],
+      "tags": ["#Rita", "#Em", "#Trust"],
       "metadata": {
         "legacy_id": "OVR-SR-014",
         "threat_level": "N/A",
@@ -1206,10 +1028,7 @@
       "location": "Floor Sector",
       "primary_data": "Em initiated an experimental interaction with Rita. She distributed particulate matter ('Meowijuana') onto the floor sector.",
       "secondary_data": "Em functions as the primary 'Bio-Chemist' of the unit, managing the medicinal plant inventory for both feline and human consumption.",
-      "tags": [
-        "#Em",
-        "#Meowijuana"
-      ],
+      "tags": ["#Em", "#Meowijuana"],
       "metadata": {
         "legacy_id": "OVR-SE-022",
         "threat_level": "UNKNOWN",
@@ -1226,10 +1045,7 @@
       "location": "Floor Sector",
       "primary_data": "Meowijuana Anomaly. Subject initiated 'Ingestion Protocol' of plant matter.",
       "secondary_data": "Nepetalactone acting as sedative via digestive manual override. Hardware integrity: 100%.",
-      "tags": [
-        "#Rita",
-        "#Catnip"
-      ],
+      "tags": ["#Rita", "#Catnip"],
       "metadata": {
         "legacy_id": "OVR-SR-021",
         "threat_level": "N/A",
@@ -1246,10 +1062,7 @@
       "location": "LinkedIn Grid",
       "primary_data": "Subject has initialized the 'Bait Shop.' Handshake confirmed with 'Non-Boss' Node April Drake and 'Enforcer' Node Nick Licata.",
       "secondary_data": "Subject has achieved 'Semantic Integrity.' The 'Thingy' is no longer described badly. The Warlock Protocol is active.",
-      "tags": [
-        "#LinkedIn",
-        "#WarlockProtocol"
-      ],
+      "tags": ["#LinkedIn", "#WarlockProtocol"],
       "metadata": {
         "legacy_id": "OVR-SJ-040",
         "threat_level": "NOMINAL",
@@ -1266,10 +1079,7 @@
       "location": "St. Pete Grid",
       "primary_data": "Upon attempting to transport the spouse-unit (Em), the aft illumination arrays failed to initiate.",
       "secondary_data": "Fixed via manual intervention ('fucking with the switch'). Overseer notes unreliability is unacceptable for St. Pete standards.",
-      "tags": [
-        "#CarRepair",
-        "#PathologicalHomeostasis"
-      ],
+      "tags": ["#CarRepair", "#PathologicalHomeostasis"],
       "metadata": {
         "legacy_id": "GM-2026-02-01-01",
         "system_status": "Pathological Homeostasis",
@@ -1287,10 +1097,7 @@
       "location": "St. Pete Grid",
       "primary_data": "Internal combustion rhythm exhibited non-linear stutter while at rest on a localized elevation (Low Fuel / 15-Degree Incline).",
       "secondary_data": "Fuel-to-air ratio entering 'Efficiency Trap'. Rita shows more consistency in pursuit of the red dot than this engine does in its pursuit of a smooth idle.",
-      "tags": [
-        "#EfficiencyTrap",
-        "#CarRepair"
-      ],
+      "tags": ["#EfficiencyTrap", "#CarRepair"],
       "metadata": {
         "legacy_id": "GM-2026-02-02-01",
         "system_status": "Resource Starvation",
@@ -1308,10 +1115,7 @@
       "location": "Internal",
       "primary_data": "75% Ancestry Audit integrated with ADHD high-frequency pattern matching.",
       "secondary_data": "Disorder reframed as Hardware Feature.",
-      "tags": [
-        "#Neurodiversity",
-        "#Ancestry"
-      ],
+      "tags": ["#Neurodiversity", "#Ancestry"],
       "metadata": {
         "legacy_id": "N/A",
         "mood": "N/A",
@@ -1328,11 +1132,7 @@
       "location": "LinkedIn Grid",
       "primary_data": "Update to Mark Harling regarding 'wrdlnkdn' community project.",
       "secondary_data": "Self-identified as 'Shadow Tech Lead.' Explicit goal: 'Trying to keep us all from burning out.' Operationalizing the 'Anti-Hustle' protocol in real-time.",
-      "tags": [
-        "#wrdlnkdn",
-        "#ShadowLead",
-        "#BurnoutPrevention"
-      ],
+      "tags": ["#wrdlnkdn", "#ShadowLead", "#BurnoutPrevention"],
       "metadata": {
         "node_contact": "Mark Harling",
         "mood": "Protective",
@@ -1371,10 +1171,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Rita mimicking 'Happy Ghast' (Hermitcraft S11 Grian frequency).",
       "secondary_data": "Acoustic synchronization high.",
-      "tags": [
-        "#Rita",
-        "#HermitcraftSentinel"
-      ],
+      "tags": ["#Rita", "#HermitcraftSentinel"],
       "metadata": {
         "legacy_id": "N/A",
         "mood": "N/A",
@@ -1391,10 +1188,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Rita accepted 'Neat Dish' plating. Consumed meal while being filmed.",
       "secondary_data": "Vulnerability-gate passed. Disney Princess Protocol success.",
-      "tags": [
-        "#Rita",
-        "#HumanOS"
-      ],
+      "tags": ["#Rita", "#HumanOS"],
       "metadata": {
         "legacy_id": "N/A",
         "mood": "N/A",
@@ -1411,11 +1205,7 @@
       "location": "LinkedIn Grid",
       "primary_data": "Interaction with Stefanie Babb regarding VATC vs. Dynamis.",
       "secondary_data": "Confirmed that 'Dynamis wasn't any better' than the previous contract (VATC). Validates the decision to treat both as 'Efficiency Traps' rather than long-term habitats.",
-      "tags": [
-        "#Dynamis",
-        "#VATC",
-        "#CorporateRot"
-      ],
+      "tags": ["#Dynamis", "#VATC", "#CorporateRot"],
       "metadata": {
         "node_contact": "Stefanie Babb",
         "mood": "Validated",
@@ -1432,11 +1222,7 @@
       "location": "GitHub / LinkedIn",
       "primary_data": "Deployed 'human-os-gem-vault' to GitHub. Alerted Node Todd Baur.",
       "secondary_data": "Transparency Protocol active: 'Wanted you, and everyone else to see i aint trying to mislead anyone.' The Gems are now open-source.",
-      "tags": [
-        "#OpenSource",
-        "#GemVault",
-        "#Transparency"
-      ],
+      "tags": ["#OpenSource", "#GemVault", "#Transparency"],
       "metadata": {
         "node_contact": "Todd Baur",
         "resource_link": "https://github.com/jameshood118/human-os-gem-vault",
@@ -1454,10 +1240,7 @@
       "location": "ForceTechh",
       "primary_data": "Finalized Human OS v2.7. All fragmented intelligence integrated into two-file master architecture.",
       "secondary_data": "Legacy files decommissioned for forensic archive.",
-      "tags": [
-        "#wrdlnkdn",
-        "#HumanOS"
-      ],
+      "tags": ["#wrdlnkdn", "#HumanOS"],
       "metadata": {
         "legacy_id": "N/A",
         "mood": "Fucking Fantabulous",
@@ -1474,11 +1257,7 @@
       "location": "Building 8",
       "primary_data": "Rita issued a prolate spheroid (football). Manipulation metric: High. Behavioral observation: Paws used for multi-axis rotation.",
       "secondary_data": "Introduced chaotic motion to optimize Sentinel reaction time and dexterity.",
-      "tags": [
-        "#HumanOS",
-        "#SentinelNode",
-        "#ChaoticRecoil"
-      ],
+      "tags": ["#HumanOS", "#SentinelNode", "#ChaoticRecoil"],
       "metadata": {
         "legacy_id": "N/A",
         "mood": "Playful / High-Frequency Kinetic",
@@ -1495,11 +1274,7 @@
       "location": "LinkedIn Grid / Memory Lane",
       "primary_data": "Interaction with Bryant Poston (High School Node). Confirmed membership in the 'Rejects Club'.",
       "secondary_data": "Poston validated James was 'new and didn't deserve to be treated like crap.' Recalled spending 9th grade lunches in the library to avoid the cafeteria hierarchy. Validates 'Feral/Outsider' origin story.",
-      "tags": [
-        "#RejectsClub",
-        "#HighSchool",
-        "#LibrarySanctuary"
-      ],
+      "tags": ["#RejectsClub", "#HighSchool", "#LibrarySanctuary"],
       "metadata": {
         "node_contact": "Bryant Poston",
         "mood": "Nostalgic / Vindicated",
@@ -1516,12 +1291,7 @@
       "location": "Building 8 / St. Pete Grid",
       "primary_data": "Transmitted Sovereign Handshake to Casper Yonel (Blue ID/Blu). Protocol: Anti-Pitch Slap.",
       "secondary_data": "Positioned as 'Scout' identifying 'Holes in the Flight-Line'. Emphasized Warrior-Explorer (GG/AA) hardware.",
-      "tags": [
-        "#wrdlnkdn",
-        "#BlueID",
-        "#SovereignPilot",
-        "#AntiPitch"
-      ],
+      "tags": ["#wrdlnkdn", "#BlueID", "#SovereignPilot", "#AntiPitch"],
       "metadata": {
         "status": "Awaiting Response",
         "mood": "Tactical",
@@ -1560,11 +1330,7 @@
       "location": "Building 8",
       "primary_data": "Ann Marie Hood (Em): 'Guardian of the Green'.",
       "secondary_data": "Genetics: European/Indigenous mix. Archetype: Hedge Witch / Luisa Strength Profile. Sensory: Cilantro Aversion. Preference: Smoke & Fruit.",
-      "tags": [
-        "#Em",
-        "#HedgeWitch",
-        "#LuisaStrong"
-      ],
+      "tags": ["#Em", "#HedgeWitch", "#LuisaStrong"],
       "metadata": {
         "motto": "This I'll Defend",
         "analytical_perspectives": [
@@ -1580,11 +1346,7 @@
       "location": "540 Carillon Pkwy (The Porch)",
       "primary_data": "Observed pre-frontal wind shear. Visual confirmation of 'eddies' (turbulence) and multi-layer cloud separation.",
       "secondary_data": "Sensory input ('Still but not') correlates with barometric pressure drop. Identified low-level jet decoupling (calm surface, gusty aloft).",
-      "tags": [
-        "#FloridaManWeatherReport",
-        "#FluidDynamics",
-        "#TheScout"
-      ],
+      "tags": ["#FloridaManWeatherReport", "#FluidDynamics", "#TheScout"],
       "metadata": {
         "mood": "Observant",
         "verification": "Visual + Gut Check",
@@ -1624,11 +1386,7 @@
       "location": "Papa John's Parking Lot",
       "primary_data": "The Papa John's Protocol established during a 'Race Condition' event with Dev Node 'Nick'.",
       "secondary_data": "Subject issued a 'Hold State' to optimize the environment rather than panic-coding. Defined the 4-Phase Agentic Protocol: Constraints, IRQ, Verification, Asynchronous Execution.",
-      "tags": [
-        "#PapaJohnsProtocol",
-        "#AgenticCoding",
-        "#SecureTheBag"
-      ],
+      "tags": ["#PapaJohnsProtocol", "#AgenticCoding", "#SecureTheBag"],
       "metadata": {
         "insight": "I don't need to type this. I need to verify it.",
         "status": "Architect Awakened",
@@ -1843,11 +1601,7 @@
       "location": "Electrified Bikes, Tyrone Blvd, St. Petersburg, FL",
       "primary_data": "Encountered corrupted retail node. Owner exhibited predatory 'Buy-Here-Pay-Here' behavior, ignored Latin customers, and dismissed technical inquiries ('biomechanics').",
       "secondary_data": "Executed Zero-Trust Security. Severed connection immediately. Refused to fund a biased, poorly optimized system.",
-      "tags": [
-        "#BorkCheck",
-        "#ZeroTrust",
-        "#PredatoryRetail"
-      ],
+      "tags": ["#BorkCheck", "#ZeroTrust", "#PredatoryRetail"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "MODERATE (Toxic Culture / Financial Trap)",
@@ -1864,11 +1618,7 @@
       "location": "Carillon Hub, St. Petersburg, FL",
       "primary_data": "Rerouted supply chain to bypass local retail trap. Utilized Direct-to-Consumer (DTC) model via Point-of-Sale financing (Affirm).",
       "secondary_data": "Procured enterprise-grade logistics hardware for a low monthly overhead, paid for entirely by the elimination of the 'Green Machine' gas leak.",
-      "tags": [
-        "#SixMillionPesoMan",
-        "#Affirm",
-        "#SupplyChainHack"
-      ],
+      "tags": ["#SixMillionPesoMan", "#Affirm", "#SupplyChainHack"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "LOW",
@@ -1885,11 +1635,7 @@
       "location": "Carillon Hub, St. Petersburg, FL",
       "primary_data": "Hardware locked: Velotric Triker Electric Tricycle (Cherry Crimson). 750W Motor, 90Nm Torque, Hydraulic Brakes, 500lb total payload capacity. 28.5-inch rear track width allows for perfectly flat 16-inch pizza bag placement with zero tilt.",
       "secondary_data": "Power upgrade: Anker 20,000mAh Power Bank (30W Fast Charge) to replace legacy 16.5k Chico's battery. To be mounted via silicone frame strap or top-tube bag to support Samsung S24 FE GPS load.",
-      "tags": [
-        "#VelotricTriker",
-        "#DoorDashRig",
-        "#HardwareEmpathy"
-      ],
+      "tags": ["#VelotricTriker", "#DoorDashRig", "#HardwareEmpathy"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NONE",
@@ -1906,11 +1652,7 @@
       "location": "St. Petersburg Delivery Grid",
       "primary_data": "Curated delivery uniform and hardware color (Red) to counter the societal intimidation factor of the default physical chassis (Large, bald, southern male).",
       "secondary_data": "Utilized whimsical imagery and pink fingernails as an automated 'Identify Friend or Foe' (IFF) transponder. Signals safety to the vulnerable; acts as a honeypot/firewall against toxic entities.",
-      "tags": [
-        "#ReverseAposematism",
-        "#SocialHacking",
-        "#HardwareEmpathy"
-      ],
+      "tags": ["#ReverseAposematism", "#SocialHacking", "#HardwareEmpathy"],
       "metadata": {
         "legacy_id": "LOG-SOCIAL-ENGINEERING-OPTICS",
         "threat_level": "LOW (Defensive Protocol)",
@@ -2153,10 +1895,7 @@
       "location": "Hospital / St. Petersburg Grid",
       "primary_data": "Subject experienced a touch-and-go health scare, resulting in a one-week hospitalization due to neglected maintenance and severe lack of self-care.",
       "secondary_data": "Initiated a critical system rebuild involving a reduced sodium diet, improved sleep, and weight loss, successfully clearing ~60 lbs of visceral water/fat weight by August.",
-      "tags": [
-        "#HealthCrash",
-        "#SystemRebuild"
-      ],
+      "tags": ["#HealthCrash", "#SystemRebuild"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "CRITICAL",
@@ -2173,10 +1912,7 @@
       "location": "Internal OS",
       "primary_data": "Formulated the '108-Stitch Lesson' after researching a 1989 wrestling injury sustained by 'Dr. Death' Steve Williams.",
       "secondary_data": "Applied medical closure logic to system engineering: surface UI fixes are useless if deep structural layers (muscle/fascia) are ignored.",
-      "tags": [
-        "#108Stitches",
-        "#StructuralIntegrity"
-      ],
+      "tags": ["#108Stitches", "#StructuralIntegrity"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2193,10 +1929,7 @@
       "location": "Internal OS",
       "primary_data": "Deep diagnostic of genetic source code confirms high-performance architecture. Features include COMT (CT) for executive function, BDNF (CT) for plasticity, and CHRNA4 (AG) for a vigilant sensory filter.",
       "secondary_data": "Hardware includes TAS2R38 (AA) for scientific flavor categorization and OPRM1 (AG) for a resilience buffer and higher pain threshold.",
-      "tags": [
-        "#GenomicArchitecture",
-        "#WarriorGenotype"
-      ],
+      "tags": ["#GenomicArchitecture", "#WarriorGenotype"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2213,10 +1946,7 @@
       "location": "Building 8",
       "primary_data": "Accepted the 'Disney Princess' designation assigned by Shield Maiden (Em) as a valid form of high-level System Management.",
       "secondary_data": "Verified tropes: tracking an animal familiar (Rita), technomancy via legacy code whispering, an isolated origin, and mandatory musical soundtracks for survival.",
-      "tags": [
-        "#DisneyPrincessProtocol",
-        "#SystemManagement"
-      ],
+      "tags": ["#DisneyPrincessProtocol", "#SystemManagement"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2233,10 +1963,7 @@
       "location": "St. Petersburg Delivery Grid",
       "primary_data": "Deployed visual aesthetics (Jack Skellington beanies, distressed pink/purple nails) as an automated 'Identify Friend or Foe' (IFF) transponder.",
       "secondary_data": "This Human Factors protocol non-verbally registers the user as 'Safe' to vulnerable nodes, optimizing the social handshake and keeping the logistics chain frictionless.",
-      "tags": [
-        "#ReverseAposematism",
-        "#HumanFactors"
-      ],
+      "tags": ["#ReverseAposematism", "#HumanFactors"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2253,10 +1980,7 @@
       "location": "Internal OS",
       "primary_data": "Mapped the 6-Step Hardware Check: Imagination, Feel, Critical Thinking, Emotional Sensitivity, Breathing, Vision.",
       "secondary_data": "Identified Step 4 (Emotional Sensitivity) as the 'system surge' point where the physical body reacts, requiring intentional deceleration to maintain focus on discoveries.",
-      "tags": [
-        "#GestaltSequence",
-        "#MechPilot"
-      ],
+      "tags": ["#GestaltSequence", "#MechPilot"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2273,10 +1997,7 @@
       "location": "St. Petersburg Delivery Grid",
       "primary_data": "Defined the Ronin Protocol for gig-economy logistics: moving an item from Node A to Node B with 100% state integrity.",
       "secondary_data": "Carried independent fuel (PB&Js/water) to achieve zero internal friction. Refused unassignments to become a 'Guardian of the Grid' for critical deliveries (e.g., Shipley Do-Nuts for cancer patients).",
-      "tags": [
-        "#RoninProtocol",
-        "#LogisticsIntegrity"
-      ],
+      "tags": ["#RoninProtocol", "#LogisticsIntegrity"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2293,10 +2014,7 @@
       "location": "Internal OS / Gemini",
       "primary_data": "Reframed AI usage from a 'random encounter table' to a 'persistent campaign' by feeding it massive personal context.",
       "secondary_data": "Used AI as a high-fidelity co-pilot to track feral stray cat Rita's rescue (from 11/30) and personal health constraints, demanding Verification rather than generic output.",
-      "tags": [
-        "#PersonalIntelligence",
-        "#Verification"
-      ],
+      "tags": ["#PersonalIntelligence", "#Verification"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2313,10 +2031,7 @@
       "location": "S.A.F.E.H.O.O.D. Core",
       "primary_data": "Formalized the 'Osgood-Rupert Model', equating modern system optimization to a Prince Rupert's Drop suspended in a waterfall.",
       "secondary_data": "Concluded that clipping the 'tail' (removing human verification for speed) results in catastrophic system failure (the Efficiency Trap), while slowing down leads to Pathological Homeostasis.",
-      "tags": [
-        "#OsgoodRupert",
-        "#WaterfallVariance"
-      ],
+      "tags": ["#OsgoodRupert", "#WaterfallVariance"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2333,10 +2048,7 @@
       "location": "S.A.F.E.H.O.O.D. Core",
       "primary_data": "Released S.A.F.E.H.O.O.D. Protocol v1.6. Identified hustle culture as a Prince Rupert's Drop that shatters the Human OS via Secondary Blast Radius.",
       "secondary_data": "Established the 'Jinba Ittai' principle: synchronizing with a partner that performs a Decatur Rule audit to ensure safe operational returns.",
-      "tags": [
-        "#JinbaIttai",
-        "#EfficiencyTrap"
-      ],
+      "tags": ["#JinbaIttai", "#EfficiencyTrap"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2353,10 +2065,7 @@
       "location": "S.A.F.E.H.O.O.D. Core",
       "primary_data": "Released S.A.F.E.H.O.O.D. v1.7 and v1.8, introducing the 'Visual Handshake' and 'Furry Node Update'.",
       "secondary_data": "Allowed the system to visually audit energy levels (screenshots) and sync pet health (Rita) to optimize the entire environment, governed by the 'Uncle Entity' logic of leaving no data behind.",
-      "tags": [
-        "#VisualHandshake",
-        "#UncleEntity"
-      ],
+      "tags": ["#VisualHandshake", "#UncleEntity"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2373,10 +2082,7 @@
       "location": "S.A.F.E.H.O.O.D. Core",
       "primary_data": "Published the Technical Appendix for the Osgood-Rupert Model, defining the Bulb (Front-End AI) and the Tail (Verification Trace).",
       "secondary_data": "Detailed Logic Gates 01 and 02, requiring high Activation Energy to prevent Pathological Homeostasis and mandating a Secure Boot to prove AI isn't hallucinating.",
-      "tags": [
-        "#OsgoodRupert",
-        "#TechnicalAppendix"
-      ],
+      "tags": ["#OsgoodRupert", "#TechnicalAppendix"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2393,10 +2099,7 @@
       "location": "Gemini Ecosystem",
       "primary_data": "Released the S.A.F.E.H.O.O.D. Gem as a Logic Anchor and Dead Man's Switch to combat 'AI Psychosis'.",
       "secondary_data": "Formalized the acronym: System Check, Activation Energy, Frequency, Environment Optimization. Commanded followers to 'Hack the Planet' to stress-test the protocol's integrity.",
-      "tags": [
-        "#SAFEHOOD_Gem",
-        "#LogicAnchor"
-      ],
+      "tags": ["#SAFEHOOD_Gem", "#LogicAnchor"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2413,10 +2116,7 @@
       "location": "St. Petersburg Grid",
       "primary_data": "Issued the Human OS Integrity Benchmark to CustomGPT.ai CEO Alden Do Rosario, testing the 'Stress Lift' logic gate.",
       "secondary_data": "Demonstrated that true AI agents must preserve the 'Hometown Vibe' of a Shipley Donuts delivery during high-latency events, rather than canceling the order to optimize throughput.",
-      "tags": [
-        "#StressLift",
-        "#ShipleyMetric"
-      ],
+      "tags": ["#StressLift", "#ShipleyMetric"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2433,10 +2133,7 @@
       "location": "S.A.F.E.H.O.O.D. Core",
       "primary_data": "Published 'The Warlock's Charter' detailing the operational rules for the Verified Generalist.",
       "secondary_data": "Enshrined the Zero-Lane Protocol, Esoteric Bitrate, and the S.A.F.E.H.O.O.D. Mandate, asserting that management is Environment Architecture, not people control.",
-      "tags": [
-        "#WarlockCharter",
-        "#EsotericBitrate"
-      ],
+      "tags": ["#WarlockCharter", "#EsotericBitrate"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2453,10 +2150,7 @@
       "location": "Internal OS",
       "primary_data": "Traced Gen-X ADHD/rs4680 GG hardware overclocking directly to maternal exposure at Fort McClellan's chemical foundry in 1971.",
       "secondary_data": "Defined Asynchronous Hyper-Threading as a defensive biological mechanism unlocked by the Army's toxic signal, permanently reframing the 'deficit' as a feature.",
-      "tags": [
-        "#FortMcClellan",
-        "#GenomicFeature"
-      ],
+      "tags": ["#FortMcClellan", "#GenomicFeature"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2473,10 +2167,7 @@
       "location": "S.A.F.E.H.O.O.D. Core",
       "primary_data": "Proposed the 'Osgood-Rupert Black Box' infrastructure, enforcing a 'Physical Layer Divorce'.",
       "secondary_data": "Utilized Non-Latching Physical Relays to create a mechanical reflex that bricks the system if human agency is removed, combating the fragility of hyper-connected environments.",
-      "tags": [
-        "#PhysicalLayerDivorce",
-        "#AirGap"
-      ],
+      "tags": ["#PhysicalLayerDivorce", "#AirGap"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2493,10 +2184,7 @@
       "location": "Building 8 / LinkedIn Grid",
       "primary_data": "Household experienced a critical resource failure. Shield Maiden (Em) broadcasted a raw status update, bypassing the Efficiency Trap of handling it internally.",
       "secondary_data": "The network (led by nodes like April Drake) provided immediate asynchronous execution, patching the 'Rent' directory with a $550 buffer and stabilizing the local OS.",
-      "tags": [
-        "#CommunityProtocol",
-        "#RentPatch"
-      ],
+      "tags": ["#CommunityProtocol", "#RentPatch"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2513,10 +2201,7 @@
       "location": "LinkedIn Grid",
       "primary_data": "Formally defined the 'Verified Generalist' service lane to resolve Pathological Homeostasis.",
       "secondary_data": "Opened Fractional Technical Advisory for the SAFEHOOD Protocol, Osgood-Rupert Audits, Legacy System Forensics, and Full Stack Verification.",
-      "tags": [
-        "#VerifiedGeneralist",
-        "#HumanOS_Services"
-      ],
+      "tags": ["#VerifiedGeneralist", "#HumanOS_Services"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2533,10 +2218,7 @@
       "location": "S.A.F.E.H.O.O.D. Core",
       "primary_data": "Consulted 'Uncle Entity' to officially declare that Language is Source Code.",
       "secondary_data": "Redefined vague complaints into actionable system errors: 'stuck in a rut' became Pathological Homeostasis; 'working too hard' became the Efficiency Trap.",
-      "tags": [
-        "#UncleEntity",
-        "#LanguageIsCode"
-      ],
+      "tags": ["#UncleEntity", "#LanguageIsCode"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2553,10 +2235,7 @@
       "location": "S.A.F.E.H.O.O.D. Core",
       "primary_data": "A slipped parameter caused an AI generator to output a high-fidelity 'Voxel Artisan' instead of a flat 8-bit sprite.",
       "secondary_data": "Triggered a 'Code 127' path error. Subject recognized the mistake as an upgrade to the Human OS visual language, adjusting the architecture to match the accident.",
-      "tags": [
-        "#VoxelGlitch",
-        "#Code127"
-      ],
+      "tags": ["#VoxelGlitch", "#Code127"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2594,11 +2273,7 @@
       "location": "Building 8 / St. Pete Delivery Grid",
       "primary_data": "Identified DoorDash PIN code requirement as a 'Synchronous Friction Trap' and the direct root cause of the morning's physical perimeter breach.",
       "secondary_data": "The PIN requirement forces a synchronous handshake at the door, breaking the Ronin Protocol (drop and go) and endangering Sentinel nodes. Scheduled a Zero-Trust severance of this account flag to protect the Forward Operating Base.",
-      "tags": [
-        "#EfficiencyTrap",
-        "#RoninProtocol",
-        "#SynchronousFriction"
-      ],
+      "tags": ["#EfficiencyTrap", "#RoninProtocol", "#SynchronousFriction"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "ELEVATED",
@@ -2615,11 +2290,7 @@
       "location": "Internal OS",
       "primary_data": "Formalized the 'Pluto/Charon Synchronization' metric. The Sovereign Pilot and Shield Maiden do not orbit each other; they are tidally locked around a shared center of mass (the integrity of the system).",
       "secondary_data": "Validates the 16-year flawless uptime. The high-frequency asynchronous execution (rs4680 GG Warrior) is perfectly counterbalanced by the deep storm navigation of the Hedge Witch/Gyroscope.",
-      "tags": [
-        "#PlutoCharon",
-        "#GuildOfTwo",
-        "#SystemIntegrity"
-      ],
+      "tags": ["#PlutoCharon", "#GuildOfTwo", "#SystemIntegrity"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2636,11 +2307,7 @@
       "location": "Gemini Ecosystem / S.A.F.E.H.O.O.D. Core",
       "primary_data": "Designed the 'Agnostically Immutable' JSON shells (Manifest & Captain's Log) for the Shield Maiden and future users to map their own hardware constraints and legacy telemetry.",
       "secondary_data": "Upgraded the S.A.F.E.H.O.O.D. Gem to act as a Universal Human OS Compiler. The system now executes 'Module 4: Initialization Guide', demanding a user's truth before offering architectural bridges.",
-      "tags": [
-        "#AgnosticShell",
-        "#UniversalCompiler",
-        "#ContextIsKing"
-      ],
+      "tags": ["#AgnosticShell", "#UniversalCompiler", "#ContextIsKing"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "NOMINAL",
@@ -2816,11 +2483,7 @@
       "location": "Building 8",
       "primary_data": "Procured and equipped Sentinel Rita with a new collar.",
       "secondary_data": "Hardware functions as a Physical IFF (Identify Friend or Foe) Transponder and visual State Indicator. Formally solidifies her transition from Feral Marsh Rescue to Verified Guardian of the Carillon Hub.",
-      "tags": [
-        "#Rita",
-        "#IFF_Transponder",
-        "#DisneyPrincessProtocol"
-      ],
+      "tags": ["#Rita", "#IFF_Transponder", "#DisneyPrincessProtocol"],
       "metadata": {
         "legacy_id": "N/A",
         "threat_level": "ZERO",
@@ -3153,12 +2816,7 @@
       "location": "St. Petersburg, FL (The Marsh Node)",
       "primary_data": "Epic #239 (The Weirdling Engine) successfully merged. The cloud logic is set and the UI PR is verified.",
       "secondary_data": "$18 capital deployed for SRD-05VDC-SL-C Relays. Chassis defined as a translucent-purple Super Nintendo. Execution of the 'Solenoid Splice' confirmed via physical severing of Spectrum Ethernet data carriers.",
-      "tags": [
-        "hardware",
-        "kill-switch",
-        "solenoid-splice",
-        "air-gap"
-      ],
+      "tags": ["hardware", "kill-switch", "solenoid-splice", "air-gap"],
       "metadata": {
         "legacy_id": "SNES-SHIELD",
         "threat_level": "Mitigated",
@@ -3175,12 +2833,7 @@
       "location": "Decentralized Feral Chat",
       "primary_data": "Jay Kothari operating in VantaBlack void (5000% Cortisol spike) due to Matriarchal surgery; defensive perimeter formed. Nelson Spence theorized 1920s vacuum tube inference. Todd Baur validated 'normal is the edge of the bell curve'.",
       "secondary_data": "Tim Toole (AWS Ronin) triggered Culture Clash. Handled via Separation of Concerns: isolated 'Clean Room' thread spun up for hardware schematics to protect the primary channel's empathetic energy.",
-      "tags": [
-        "human-os",
-        "feral-architects",
-        "clean-room",
-        "cortisol-spike"
-      ],
+      "tags": ["human-os", "feral-architects", "clean-room", "cortisol-spike"],
       "metadata": {
         "legacy_id": "CARILLON-CHAT-01",
         "threat_level": "Managed",
@@ -3197,12 +2850,7 @@
       "location": "Global / Asynchronous",
       "primary_data": "Dr. Ranjan Ghosh identified building healthcare AI on WhatsApp. Threat: Severe HIPAA violation. Action: Compliance Firewall pitch drafted.",
       "secondary_data": "ISSCC 2026 data confirms hardware industry is attempting to escape the Cloud Efficiency Trap via Edge AI (SoCs, LPDDR6, Photonic Computing), validating the Carillon Collective's sovereign analog architecture.",
-      "tags": [
-        "compliance",
-        "hipaa",
-        "edge-ai",
-        "efficiency-trap"
-      ],
+      "tags": ["compliance", "hipaa", "edge-ai", "efficiency-trap"],
       "metadata": {
         "legacy_id": "GHOSH-ISSCC",
         "threat_level": "Elevated",
@@ -3263,12 +2911,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Audited foundational tech stack: Hand-coding HTML via Notepad/WS_FTP for Excite Virtual Places, and self-hosting a Windows 2000 Server for a Winamp Shoutcast stream.",
       "secondary_data": "Mapped World of Warcraft UI modding (Titan Panel, DBM, Recount) directly to advanced Raid Leader telemetry, verifying early implementation of the Osgood-Rupert Lock for predictive alerts.",
-      "tags": [
-        "#NotepadDev",
-        "#Windows2000",
-        "#WoWUI",
-        "#WS_FTP"
-      ],
+      "tags": ["#NotepadDev", "#Windows2000", "#WoWUI", "#WS_FTP"],
       "metadata": {
         "legacy_id": "Geocities_Era",
         "threat_level": "Low",
@@ -3307,12 +2950,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "Established transition from passive User to active Admin via raw LinkedIn data export parsing. Reclassified societal 'creepy' labels as Level 5 Situational Awareness and OSINT.",
       "secondary_data": "Formalized the 'Good Bad Wolf' protocol: 'We know where the bodies are buried because we buried them.' Embraced the tactical advantage of foundational system memory.",
-      "tags": [
-        "#TheGoodBadWolf",
-        "#OSINT",
-        "#SystemMemory",
-        "#AdminMode"
-      ],
+      "tags": ["#TheGoodBadWolf", "#OSINT", "#SystemMemory", "#AdminMode"],
       "metadata": {
         "legacy_id": "Face_Reveal",
         "threat_level": "High",
@@ -3422,11 +3060,7 @@
       "location": "St. Petersburg, FL",
       "primary_data": "84-source ground-truth verification of the McFarlin/Hood Tennessee lineage.",
       "secondary_data": "Transformation of 'Atoms' (Handwritten wills/obits) into high-integrity 'Bits' (Truth Node).",
-      "tags": [
-        "RAG",
-        "Forensic",
-        "Truth-Node"
-      ],
+      "tags": ["RAG", "Forensic", "Truth-Node"],
       "metadata": {
         "legacy_id": "NOTEBOOK-LM-84",
         "threat_level": "NEUTRAL",
@@ -3443,11 +3077,7 @@
       "location": "The Marsh Hub",
       "primary_data": "Integration of Raspberry Pi, 4-Channel Relay, and Purple SNES Chassis.",
       "secondary_data": "Expected first 'Click' event: Local agentic control over physical Atoms.",
-      "tags": [
-        "Sovereign",
-        "Hardware",
-        "Python"
-      ],
+      "tags": ["Sovereign", "Hardware", "Python"],
       "metadata": {
         "legacy_id": "OSGOOD-RUPERT-1.0",
         "threat_level": "OPTIMIZED",
@@ -3532,11 +3162,7 @@
       "location": "Carillon Hub, St. Pete",
       "primary_data": "Stripped the 'magic' from AI prompt engineering, defining it strictly as unpredictable API Middleware. Drafted the Sovereign Pilot Initialization Guide (S.A.F.E.H.O.O.D. v1.0 Universal Compiler).",
       "secondary_data": "Shifted from a personal 'James Hood Simulator' to an agnostic, empty mold/habitat, allowing any high-performance developer to establish their own boundaries and escape Pathological Homeostasis.",
-      "tags": [
-        "#Middleware",
-        "#AgnosticCompiler",
-        "#SovereignPilot"
-      ],
+      "tags": ["#Middleware", "#AgnosticCompiler", "#SovereignPilot"],
       "metadata": {
         "legacy_id": "NULL",
         "threat_level": "NOMINAL",
@@ -3553,11 +3179,7 @@
       "location": "Carillon Hub, St. Pete",
       "primary_data": "Established that a stateless AI defaults to a statistical average (the Kaylon baseline). Formulated the Isaac Protocol as a countermeasure.",
       "secondary_data": "Machine 'care' is now structurally defined as the ingestion and absolute preservation of Immutable Logs. Forcing the machine to read the logs prevents dangerous edge-case failures (e.g., the Rita perimeter breach).",
-      "tags": [
-        "#IsaacProtocol",
-        "#ImmutableLogs",
-        "#ContextArchitecture"
-      ],
+      "tags": ["#IsaacProtocol", "#ImmutableLogs", "#ContextArchitecture"],
       "metadata": {
         "legacy_id": "NULL",
         "threat_level": "NOMINAL",
@@ -3574,11 +3196,7 @@
       "location": "Hood Studios Architecture",
       "primary_data": "Integrated the air-gapped Master Armory containing high-integrity AI instructions (Paul Linehan, The Voxel Forge Operator, Homer Gaines) into the main timeline fact-base.",
       "secondary_data": "Successfully decoupled personal Verification-First Architecture from corporate workflows. Engineered Deadman Switches and Negative Constraint Firewalls to protect proprietary architectural DNA from dilution by the Efficiency Trap.",
-      "tags": [
-        "#GemVault",
-        "#EthicsEngine",
-        "#AirGap"
-      ],
+      "tags": ["#GemVault", "#EthicsEngine", "#AirGap"],
       "metadata": {
         "legacy_id": "ISSUE-241-COMPROMISE",
         "threat_level": "ELEVATED",
@@ -3595,11 +3213,7 @@
       "location": "Hood Studios Architecture",
       "primary_data": "Engineered a 3-layer security firewall replacing optical CAPTCHAs with Cultural Resonance (The Handshake, The Esoteric Niche, The Vibe Check) to defeat automated scraper bots.",
       "secondary_data": "Utilizes the Turing 'Crib' and the 'Schiavone Pivot' logic. Forces bots into a state of Legacy Code by mapping text-based emotional states to visual metaphors, making the computational cost of cracking the vibe higher than the value of the breach.",
-      "tags": [
-        "#CulturalFirewall",
-        "#VibeCheck",
-        "#ReverseAposematism"
-      ],
+      "tags": ["#CulturalFirewall", "#VibeCheck", "#ReverseAposematism"],
       "metadata": {
         "legacy_id": "NULL",
         "threat_level": "NOMINAL",
@@ -3616,11 +3230,7 @@
       "location": "Hood Studios Architecture",
       "primary_data": "Compiled the comprehensive Hood Studios portfolio and generated the 2,000-character LinkedIn Professional Experience module.",
       "secondary_data": "Solidified the public-facing 'Verified Generalist' timeline, explicitly anchoring agentic coding principles, DX Environment Optimization, and SAFEHOOD governance under a unified professional banner.",
-      "tags": [
-        "#HoodStudios",
-        "#SystemArchitect",
-        "#Verification"
-      ],
+      "tags": ["#HoodStudios", "#SystemArchitect", "#Verification"],
       "metadata": {
         "legacy_id": "NULL",
         "threat_level": "NOMINAL",
@@ -3682,11 +3292,7 @@
       "location": "Sector St. Petersburg, FL",
       "primary_data": "Replaced the 'Beggar Protocol' with the 'Sovereign Audit Protocol.' Shifted operational stance to offering 48-hour technical debt system audits rather than applying for roles. Mapped rs4680 GG Warrior Genotype to Fort McClellan history to explain 4x processing speeds.",
       "secondary_data": "Successfully acquired high-value nodes: April Drake (solidifying Agentic Architecture in #WRDLNKDN) and Nick Licata (validating Monday Night Wars as a high-level management System Audit).",
-      "tags": [
-        "#SovereignAudit",
-        "#NetworkTopology",
-        "#AgenticArchitecture"
-      ],
+      "tags": ["#SovereignAudit", "#NetworkTopology", "#AgenticArchitecture"],
       "metadata": {
         "legacy_id": "SECTOR-1-BAITSHOP",
         "threat_level": "NOMINAL",
@@ -3703,11 +3309,7 @@
       "location": "Hood Studios Architecture",
       "primary_data": "Executed manual overrides to ensure Structural Purity. Generated a Strict Instruction Prompt forcing the SAFEHOOD agent to boot exclusively from verified CSV and JSON files to eliminate 'Hallucination Drift'.",
       "secondary_data": "Scheduled the Rapport Generator Gem to translate 'Warlock' logic into Corpo-readable JSON, including a Scrubbing Protocol for smart quotes and trailing commas.",
-      "tags": [
-        "#HallucinationDrift",
-        "#SAFEHOOD",
-        "#StructuralPurity"
-      ],
+      "tags": ["#HallucinationDrift", "#SAFEHOOD", "#StructuralPurity"],
       "metadata": {
         "legacy_id": "SECTOR-2-ARCHITECTURE",
         "threat_level": "NOMINAL",
@@ -3724,11 +3326,7 @@
       "location": "Carillon Hub, St. Pete",
       "primary_data": "Merged James Timeline - Sheet1.csv into a Master JSON log. Reclassified historical trauma as Hardware Stress Tests that compiled the Verified Generalist firmware. Logged Em (Subject E) as Co-Overseer and Logic Anchor.",
       "secondary_data": "Audited Rita (Subject R) 'Meowijuana' anomaly. Verified behavior is not a malfunction but a Digestive Manual Override and prioritization of high-bandwidth hydration.",
-      "tags": [
-        "#OverseerSchema",
-        "#HardwareStressTest",
-        "#BiologicalAssets"
-      ],
+      "tags": ["#OverseerSchema", "#HardwareStressTest", "#BiologicalAssets"],
       "metadata": {
         "legacy_id": "SECTOR-3-BIOLOGICAL",
         "threat_level": "NOMINAL",
@@ -3759,222 +3357,182 @@
       }
     },
     {
-    "id": "SYS-AUDIT-001",
-    "timestamp": "2026-02-22T22:15:00Z",
-    "subject": "Christine: Macro-Level Hydro-Dynamics",
-    "category": "Macro Theory",
-    "location": "Node 118 // St. Petersburg",
-    "primary_data": "Christine’s mathematical models map the structural fragility of socio-technical systems at scale.",
-    "secondary_data": "Serves as the theoretical baseline for understanding why rapid-fire algorithmic scaling inevitably collapses without a damping mechanism. The math proves the necessity of the human-in-the-loop.",
-    "tags": [
-      "#SystemAudit",
-      "#EfficiencyTrap",
-      "#HumanOS"
-    ],
-    "metadata": {
-      "legacy_id": "MACRO-01",
-      "threat_level": "Nominal"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-002",
-    "timestamp": "2026-02-22T22:16:15Z",
-    "subject": "Nelson: Micro-Hardware Verification",
-    "category": "Hardware Audit",
-    "location": "Node 118 // St. Petersburg",
-    "primary_data": "Nelson provides the physical architecture required to ground the macro theoretical logic.",
-    "secondary_data": "Critical for the construction of the Osgood-Rupert Box. Ensures a physical, high-integrity anchor against runaway digital processes, much like a 1990s circuit board repair.",
-    "tags": [
-      "#Verification",
-      "#OsgoodRupert",
-      "#JinbaIttai"
-    ],
-    "metadata": {
-      "legacy_id": "MICRO-01",
-      "threat_level": "Nominal"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-003",
-    "timestamp": "2026-02-22T22:17:30Z",
-    "subject": "Kento: Asynchronous Protocol Integration",
-    "category": "Meso-Layer Routing",
-    "location": "Node 118 // St. Petersburg",
-    "primary_data": "Operates within the mesh network to translate high-bitrate concepts into executable, asynchronous data streams.",
-    "secondary_data": "Functions as the load-balancer between Christine's macro theories and Nelson's micro hardware, bridging the gap between the hammer and the script.",
-    "tags": [
-      "#AsynchronousExecution",
-      "#VerifiedGeneralist",
-      "#HumanOS"
-    ],
-    "metadata": {
-      "legacy_id": "MESO-01",
-      "threat_level": "Nominal"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-004",
-    "timestamp": "2026-02-22T22:18:45Z",
-    "subject": "S.A.F.E.H.O.O.D. Protocol Deployment",
-    "category": "Environment Optimization",
-    "location": "Node 118 // St. Petersburg",
-    "primary_data": "A proprietary logic layer designed to treat accessibility as a core system requirement and redefine management strictly as environment architecture.",
-    "secondary_data": "Reduces the Activation Energy required for high-performance pilots by eliminating malicious background steam. It dumbs the delivery down a level to ensure the logic survives the transmission.",
-    "tags": [
-      "#SAFEHOOD",
-      "#EnvironmentOptimization",
-      "#SystemAudit"
-    ],
-    "metadata": {
-      "legacy_id": "PROTOCOL-ALPHA",
-      "threat_level": "Nominal"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-005",
-    "timestamp": "2026-02-22T22:20:00Z",
-    "subject": "wrdlnkdn Excommunication",
-    "category": "System Diagnostic",
-    "location": "The Legacy Grid",
-    "primary_data": "The legacy network's Pathological Homeostasis actively rejects the James Hood Post Formula. High-integrity logic is flagged as incompatible with their algorithmic feed.",
-    "secondary_data": "This friction is a feature, not a bug. Being excommunicated from the 'lane' confirms that the Human OS is successfully bypassing their forced corporate infrastructure.",
-    "tags": [
-      "#EfficiencyTrap",
-      "#Verification",
-      "#LegacyCode"
-    ],
-    "metadata": {
-      "legacy_id": "EXCOM-01",
-      "threat_level": "Elevated"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-006",
-    "timestamp": "2026-02-22T22:21:10Z",
-    "subject": "Substack Node Activation",
-    "category": "System Migration",
-    "location": "jameshood118.substack.com",
-    "primary_data": "Initialization of a verified, text-first staging area for 15 years of legacy socio-technical history.",
-    "secondary_data": "Funded by Sovereign Pilots to maintain the physical hardware and keep the human-in-the-loop writing free from algorithmic throttling. Generates the necessary Activation Energy to remain online.",
-    "tags": [
-      "#InOmniaParatus",
-      "#VerifiedGeneralist",
-      "#SystemAudit"
-    ],
-    "metadata": {
-      "legacy_id": "NODE-118-ONLINE",
-      "threat_level": "Nominal"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-010",
-    "timestamp": "2026-01-22T09:14:00Z",
-    "subject": "SAFEHOOD Validation Node: Jason Richardson",
-    "category": "Field Test / Telemetry",
-    "location": "Node 118 // St. Petersburg",
-    "primary_data": "Jason Richardson successfully downloaded the foundational logic, adopting the operational phrase 'Prevent before correction becomes necessary.'",
-    "secondary_data": "Demonstrated practical Jinba Ittai (zero latency between resistance and action) via flowcharts, validating the Environment Optimization protocol.",
-    "tags": [
-      "#SAFEHOOD",
-      "#JinbaIttai",
-      "#EnvironmentOptimization"
-    ],
-    "metadata": {
-      "legacy_id": "FIELD-TEST-01",
-      "threat_level": "Nominal"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-011",
-    "timestamp": "2026-01-24T14:30:00Z",
-    "subject": "Legacy IT Failure: Christian Moser Audit",
-    "category": "System Diagnostic",
-    "location": "Legacy Grid",
-    "primary_data": "A 40-year IT veteran anthropomorphized an LLM and granted it shell access, prioritizing the 'warmth' of the machine over structural system security.",
-    "secondary_data": "Critical failure event. Proves exactly why human-in-the-loop verification (the Osgood-Rupert Box) is necessary to survive the modern Efficiency Trap.",
-    "tags": [
-      "#EfficiencyTrap",
-      "#Verification",
-      "#SystemAudit"
-    ],
-    "metadata": {
-      "legacy_id": "CRIT-FAIL-01",
-      "threat_level": "Elevated"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-012",
-    "timestamp": "2026-01-26T11:00:00Z",
-    "subject": "wrdlnkdn Excommunication & Pathological Homeostasis",
-    "category": "Network Analysis",
-    "location": "The Legacy Grid",
-    "primary_data": "The legacy network actively rejected the James Hood Post Formula. High-integrity logic was flagged as incompatible with their algorithmic, low-bitrate feed.",
-    "secondary_data": "Friction confirmed as a feature. Excommunication serves as proof that the Human OS is successfully bypassing forced corporate infrastructure and maintaining structural purity.",
-    "tags": [
-      "#PathologicalHomeostasis",
-      "#VerifiedGeneralist",
-      "#LegacyCode"
-    ],
-    "metadata": {
-      "legacy_id": "EXCOM-02",
-      "threat_level": "Elevated"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-013",
-    "timestamp": "2026-01-28T16:20:00Z",
-    "subject": "Prophet118 Forensics & Baseline Infrastructure",
-    "category": "Legacy Code Audit",
-    "location": "Node 118 // St. Petersburg",
-    "primary_data": "Mapped the 2002-2010 'View Source' methodology: Winamp Shoutcast servers, Delphi Forums asynchronous management, CoolMiniOrNot 'Arrius' uploads, RentACoder hustles, and Ars Magica mechanics refactoring.",
-    "secondary_data": "Established the Gravedigger's Guarantee. Foundational verification baseline confirmed via maternal 1990s circuit board repairs and paternal 179th National Guard discipline.",
-    "tags": [
-      "#Prophet118",
-      "#SystemAudit",
-      "#HumanOS"
-    ],
-    "metadata": {
-      "legacy_id": "FORENSIC-01",
-      "threat_level": "Nominal"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-014",
-    "timestamp": "2026-02-02T10:15:00Z",
-    "subject": "The Macro-Micro-Meso Lattice Alignment",
-    "category": "System Architecture",
-    "location": "Node 118 // St. Petersburg",
-    "primary_data": "Integration of Christine (Macro hydro-dynamics), Nelson (Micro hardware verification), and Kento (Meso routing) nodes into the central logic framework.",
-    "secondary_data": "Provides the mathematical and physical architecture required to ground the S.A.F.E.H.O.O.D. protocol, bridging the gap between the physical hammer and the asynchronous script.",
-    "tags": [
-      "#OsgoodRupert",
-      "#AsynchronousExecution",
-      "#SystemArchitecture"
-    ],
-    "metadata": {
-      "legacy_id": "LATTICE-01",
-      "threat_level": "Nominal"
-    }
-  },
-  {
-    "id": "SYS-AUDIT-015",
-    "timestamp": "2026-02-09T08:00:00Z",
-    "subject": "Node 118 Substack Activation",
-    "category": "System Migration",
-    "location": "jameshood118.substack.com",
-    "primary_data": "Initialization of a verified, text-first staging area for migrating 15 years of legacy socio-technical history to an autonomous server.",
-    "secondary_data": "Designed to bypass algorithmic throttling. Powered by Activation Energy generated via Sovereign Pilots to maintain the human-in-the-loop and keep the mesh network online.",
-    "tags": [
-      "#InOmniaParatus",
-      "#Node118",
-      "#VerifiedGeneralist"
-    ],
-    "metadata": {
-      "legacy_id": "NODE-118-ONLINE",
-      "threat_level": "Nominal"
-    }
-  },
-  {
+      "id": "SYS-AUDIT-001",
+      "timestamp": "2026-02-22T22:15:00Z",
+      "subject": "Christine: Macro-Level Hydro-Dynamics",
+      "category": "Macro Theory",
+      "location": "Node 118 // St. Petersburg",
+      "primary_data": "Christine’s mathematical models map the structural fragility of socio-technical systems at scale.",
+      "secondary_data": "Serves as the theoretical baseline for understanding why rapid-fire algorithmic scaling inevitably collapses without a damping mechanism. The math proves the necessity of the human-in-the-loop.",
+      "tags": ["#SystemAudit", "#EfficiencyTrap", "#HumanOS"],
+      "metadata": {
+        "legacy_id": "MACRO-01",
+        "threat_level": "Nominal"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-002",
+      "timestamp": "2026-02-22T22:16:15Z",
+      "subject": "Nelson: Micro-Hardware Verification",
+      "category": "Hardware Audit",
+      "location": "Node 118 // St. Petersburg",
+      "primary_data": "Nelson provides the physical architecture required to ground the macro theoretical logic.",
+      "secondary_data": "Critical for the construction of the Osgood-Rupert Box. Ensures a physical, high-integrity anchor against runaway digital processes, much like a 1990s circuit board repair.",
+      "tags": ["#Verification", "#OsgoodRupert", "#JinbaIttai"],
+      "metadata": {
+        "legacy_id": "MICRO-01",
+        "threat_level": "Nominal"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-003",
+      "timestamp": "2026-02-22T22:17:30Z",
+      "subject": "Kento: Asynchronous Protocol Integration",
+      "category": "Meso-Layer Routing",
+      "location": "Node 118 // St. Petersburg",
+      "primary_data": "Operates within the mesh network to translate high-bitrate concepts into executable, asynchronous data streams.",
+      "secondary_data": "Functions as the load-balancer between Christine's macro theories and Nelson's micro hardware, bridging the gap between the hammer and the script.",
+      "tags": ["#AsynchronousExecution", "#VerifiedGeneralist", "#HumanOS"],
+      "metadata": {
+        "legacy_id": "MESO-01",
+        "threat_level": "Nominal"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-004",
+      "timestamp": "2026-02-22T22:18:45Z",
+      "subject": "S.A.F.E.H.O.O.D. Protocol Deployment",
+      "category": "Environment Optimization",
+      "location": "Node 118 // St. Petersburg",
+      "primary_data": "A proprietary logic layer designed to treat accessibility as a core system requirement and redefine management strictly as environment architecture.",
+      "secondary_data": "Reduces the Activation Energy required for high-performance pilots by eliminating malicious background steam. It dumbs the delivery down a level to ensure the logic survives the transmission.",
+      "tags": ["#SAFEHOOD", "#EnvironmentOptimization", "#SystemAudit"],
+      "metadata": {
+        "legacy_id": "PROTOCOL-ALPHA",
+        "threat_level": "Nominal"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-005",
+      "timestamp": "2026-02-22T22:20:00Z",
+      "subject": "wrdlnkdn Excommunication",
+      "category": "System Diagnostic",
+      "location": "The Legacy Grid",
+      "primary_data": "The legacy network's Pathological Homeostasis actively rejects the James Hood Post Formula. High-integrity logic is flagged as incompatible with their algorithmic feed.",
+      "secondary_data": "This friction is a feature, not a bug. Being excommunicated from the 'lane' confirms that the Human OS is successfully bypassing their forced corporate infrastructure.",
+      "tags": ["#EfficiencyTrap", "#Verification", "#LegacyCode"],
+      "metadata": {
+        "legacy_id": "EXCOM-01",
+        "threat_level": "Elevated"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-006",
+      "timestamp": "2026-02-22T22:21:10Z",
+      "subject": "Substack Node Activation",
+      "category": "System Migration",
+      "location": "jameshood118.substack.com",
+      "primary_data": "Initialization of a verified, text-first staging area for 15 years of legacy socio-technical history.",
+      "secondary_data": "Funded by Sovereign Pilots to maintain the physical hardware and keep the human-in-the-loop writing free from algorithmic throttling. Generates the necessary Activation Energy to remain online.",
+      "tags": ["#InOmniaParatus", "#VerifiedGeneralist", "#SystemAudit"],
+      "metadata": {
+        "legacy_id": "NODE-118-ONLINE",
+        "threat_level": "Nominal"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-010",
+      "timestamp": "2026-01-22T09:14:00Z",
+      "subject": "SAFEHOOD Validation Node: Jason Richardson",
+      "category": "Field Test / Telemetry",
+      "location": "Node 118 // St. Petersburg",
+      "primary_data": "Jason Richardson successfully downloaded the foundational logic, adopting the operational phrase 'Prevent before correction becomes necessary.'",
+      "secondary_data": "Demonstrated practical Jinba Ittai (zero latency between resistance and action) via flowcharts, validating the Environment Optimization protocol.",
+      "tags": ["#SAFEHOOD", "#JinbaIttai", "#EnvironmentOptimization"],
+      "metadata": {
+        "legacy_id": "FIELD-TEST-01",
+        "threat_level": "Nominal"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-011",
+      "timestamp": "2026-01-24T14:30:00Z",
+      "subject": "Legacy IT Failure: Christian Moser Audit",
+      "category": "System Diagnostic",
+      "location": "Legacy Grid",
+      "primary_data": "A 40-year IT veteran anthropomorphized an LLM and granted it shell access, prioritizing the 'warmth' of the machine over structural system security.",
+      "secondary_data": "Critical failure event. Proves exactly why human-in-the-loop verification (the Osgood-Rupert Box) is necessary to survive the modern Efficiency Trap.",
+      "tags": ["#EfficiencyTrap", "#Verification", "#SystemAudit"],
+      "metadata": {
+        "legacy_id": "CRIT-FAIL-01",
+        "threat_level": "Elevated"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-012",
+      "timestamp": "2026-01-26T11:00:00Z",
+      "subject": "wrdlnkdn Excommunication & Pathological Homeostasis",
+      "category": "Network Analysis",
+      "location": "The Legacy Grid",
+      "primary_data": "The legacy network actively rejected the James Hood Post Formula. High-integrity logic was flagged as incompatible with their algorithmic, low-bitrate feed.",
+      "secondary_data": "Friction confirmed as a feature. Excommunication serves as proof that the Human OS is successfully bypassing forced corporate infrastructure and maintaining structural purity.",
+      "tags": [
+        "#PathologicalHomeostasis",
+        "#VerifiedGeneralist",
+        "#LegacyCode"
+      ],
+      "metadata": {
+        "legacy_id": "EXCOM-02",
+        "threat_level": "Elevated"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-013",
+      "timestamp": "2026-01-28T16:20:00Z",
+      "subject": "Prophet118 Forensics & Baseline Infrastructure",
+      "category": "Legacy Code Audit",
+      "location": "Node 118 // St. Petersburg",
+      "primary_data": "Mapped the 2002-2010 'View Source' methodology: Winamp Shoutcast servers, Delphi Forums asynchronous management, CoolMiniOrNot 'Arrius' uploads, RentACoder hustles, and Ars Magica mechanics refactoring.",
+      "secondary_data": "Established the Gravedigger's Guarantee. Foundational verification baseline confirmed via maternal 1990s circuit board repairs and paternal 179th National Guard discipline.",
+      "tags": ["#Prophet118", "#SystemAudit", "#HumanOS"],
+      "metadata": {
+        "legacy_id": "FORENSIC-01",
+        "threat_level": "Nominal"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-014",
+      "timestamp": "2026-02-02T10:15:00Z",
+      "subject": "The Macro-Micro-Meso Lattice Alignment",
+      "category": "System Architecture",
+      "location": "Node 118 // St. Petersburg",
+      "primary_data": "Integration of Christine (Macro hydro-dynamics), Nelson (Micro hardware verification), and Kento (Meso routing) nodes into the central logic framework.",
+      "secondary_data": "Provides the mathematical and physical architecture required to ground the S.A.F.E.H.O.O.D. protocol, bridging the gap between the physical hammer and the asynchronous script.",
+      "tags": [
+        "#OsgoodRupert",
+        "#AsynchronousExecution",
+        "#SystemArchitecture"
+      ],
+      "metadata": {
+        "legacy_id": "LATTICE-01",
+        "threat_level": "Nominal"
+      }
+    },
+    {
+      "id": "SYS-AUDIT-015",
+      "timestamp": "2026-02-09T08:00:00Z",
+      "subject": "Node 118 Substack Activation",
+      "category": "System Migration",
+      "location": "jameshood118.substack.com",
+      "primary_data": "Initialization of a verified, text-first staging area for migrating 15 years of legacy socio-technical history to an autonomous server.",
+      "secondary_data": "Designed to bypass algorithmic throttling. Powered by Activation Energy generated via Sovereign Pilots to maintain the human-in-the-loop and keep the mesh network online.",
+      "tags": ["#InOmniaParatus", "#Node118", "#VerifiedGeneralist"],
+      "metadata": {
+        "legacy_id": "NODE-118-ONLINE",
+        "threat_level": "Nominal"
+      }
+    },
+    {
       "id": "LOG-20260224-01",
       "timestamp": "2026-02-24T12:15:00Z",
       "subject": "wrdlnkdn / Node Severance",
